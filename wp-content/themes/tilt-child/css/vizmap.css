@@ -1,0 +1,64 @@
+
+
+svg {
+    font: 12px sans-serif;
+}
+
+text {
+    pointer-events: none;
+}
+
+svg text.title{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.inner_node rect {
+    pointer-events: all;
+}
+text{
+    fill: #555;
+}
+
+.inner_node.highlight rect{
+    fill: #FEFA85;
+    stroke-width: 2px;
+}
+.inner_node.highlight text{
+    fill: #555;
+}
+
+.highlight text,
+text.highlight{
+    fill: #ff50b4;
+    font-weight: bold;;
+}
+.treemap-node.highlight text{
+    fill: #ba32f0;
+}
+
+.outer_node circle {
+    fill: #fff;
+    stroke: steelblue;
+    stroke-width: 1.5px;
+    pointer-events: all;
+}
+.outer_node circle.highlight
+{
+    stroke: #ff50b4;
+    stroke-width: 2px;
+}
+
+.link {
+    fill: none;
+}
+.link.highlight{
+    stroke: #ff50b4;
+    z-index: 99;
+    stroke-width: 2px;
+}
+.type-link.highlight{
+    stroke: #9300ce;
+    z-index: 99;
+    stroke-width: 2px;
+}
