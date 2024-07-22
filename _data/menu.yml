@@ -1,19 +1,30 @@
 - title: Home
   url: /
-- title: Expertise
+- title: Solutions
   url: /our-services/
-  submenu: 
-    - title: Electronic Health Records
-      url: /our-services/ai-empowered-ehr/
-    - title: Data Accounting & Finance
-      url: /our-services/dental-office-marketing/
-    - title: Data Stories & Data Visualization
-      url: /our-services/data-stories-data-visualisation/
-    - title: Machine Learning and A.I.
-      url: /our-services/data-science-and-artificial-intelligence/
-- title: Privacy Policy
-  url: /privacy-statement/
-- title: Careers
-  url: /careers
+  submenu:
+    - title: E-Commerce Solutions
+      url: /our-services/e-commerce-solutions/
+    - title: Identity & Access Management
+      url: /our-services/identity-and-access-management/
+    - title: Penetration Testing
+      url: /our-services/penetration-testing/
+    - title: Custom Data Solutions
+      url: /our-services/custom-data-solutions/
+- title: Industries
+  url: /industries/
+  submenu:
+    - title: Law Firms
+      url: /industries/law-firms/
+    - title: Financial Institutions
+      url: /industries/financial-institutions/
+    - title: Accounting Firms
+      url: /industries/accounting-firms/
+    - title: Government
+      url: /industries/government/
+- title: About Us
+  url: /about-us/
 - title: Contact Us
-  url: /contact-us/
+  url: /contact-us/ 
+- title: Privacy Policy
+  url: /privacy-statement/ 
