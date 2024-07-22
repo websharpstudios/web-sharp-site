@@ -1,9 +1,9 @@
  - name: Build Jekyll for GitHub Pages
-    uses: actions/jekyll-build-pages@v1.0.12
-    with:
-     source: ./
-     destination: ./_site
-     build_revision:  ${{ github.sha }}
-     verbose: true
-     token: ${{ github.token }}
+     uses: actions/jekyll-build-pages@v1.0.12
+     with:
+       source: ./
+       destination: ./_site
+       build_revision:  ${{ github.sha }}
+       verbose: true
+       token: ${{ github.token }}
           
