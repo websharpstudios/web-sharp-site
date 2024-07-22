@@ -1,0 +1,19 @@
+- title: Home
+  url: /
+- title: Expertise
+  url: /our-services/
+  submenu: 
+    - title: Electronic Health Records
+      url: /our-services/ai-empowered-ehr/
+    - title: Data Accounting & Finance
+      url: /our-services/dental-office-marketing/
+    - title: Data Stories & Data Visualization
+      url: /our-services/data-stories-data-visualisation/
+    - title: Machine Learning and A.I.
+      url: /our-services/data-science-and-artificial-intelligence/
+- title: Privacy Policy
+  url: /privacy-statement/
+- title: Careers
+  url: /careers
+- title: Contact Us
+  url: /contact-us/
