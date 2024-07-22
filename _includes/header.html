@@ -1,0 +1,49 @@
+
+    <header id="site-header" class="sticky-enabled menu-dark sticked-dark submenu-light header-bold" role="banner">
+        <div id="header-wrapper">
+            <div id="header-container" class="clearfix">
+                <div class="header-centered" id="site-navigation">
+                    <div id="site-logo">
+                        <a href="/#home">
+                            <img src="/wp-content/uploads/2015/09/wss_logo_text.png" alt="Web Sharp Studios"
+                                class="default-logo" /><img
+                                src="/wp-content/uploads/2015/09/wss_logo_text_retina.png" alt="Web Sharp Studios"
+                                class="retina-logo" /><img src="/wp-content/uploads/2015/09/wss_logo_text.png"
+                                alt="Web Sharp Studios" class="sticked-logo" /><img
+                                src="/wp-content/uploads/2015/09/wss_logo_text.png" alt="Web Sharp Studios"
+                                class="sticked-retina-logo" /></a>
+                    </div>
+                    <nav id="site-navigation" class="from-top" role="navigation">
+
+                        <div class="menu-container">
+                            <ul id="menu-websharp-main-menu" class="menu">
+                                {% for item in site.data.menu %}
+                                <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                                  <a href="{{ item.url }}">{{ item.title }}</a>
+                                  {% if item.submenu %}
+                                    <ul class="submenu">
+                                      {% for subitem in item.submenu %}
+                                        <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+                                      {% endfor %}
+                                    </ul>
+                                  {% endif %}
+                                </li>
+                              {% endfor %}
+
+                            </ul>
+                        </div>
+                        <div class="header-buttons">
+
+                        </div><!-- .header-buttons -->
+                    </nav><!-- #site-navigation -->
+                </div>
+                <a href="#mobile-site-navigation" class="toggle-mobile-menu">
+                    <!--						<i class="fa fa-bars"></i>-->
+                    <div class="line top"></div>
+                    <div class="line middle"></div>
+                    <div class="line bottom"></div>
+                </a>
+            </div><!-- #header-container -->
+        </div><!-- #header-wrapper -->
+    </header><!-- #site-header -->
+   
