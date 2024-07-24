@@ -11,20 +11,18 @@
       url: /our-services/penetration-testing/
     - title: Custom Data Solutions
       url: /our-services/custom-data-solutions/
-- title: Industries
-  url: /industries/
+- title: Offices
+  url: /locations/
   submenu:
-    - title: Law Firms
-      url: /industries/law-firms/
-    - title: Financial Institutions
-      url: /industries/financial-institutions/
-    - title: Accounting Firms
-      url: /industries/accounting-firms/
-    - title: Government
-      url: /industries/government/
+    - title: Oregon
+      url: /locations/oregon/
+    - title: Virginia
+      url: /locations/virginia/
+    - title: Florida
+      url: /locations/florida/
+    - title: Texas
+      url: /locations/texas/
 - title: About Us
   url: /about-us/
-- title: Contact Us
-  url: /contact-us/ 
 - title: Privacy Policy
   url: /privacy-statement/ 

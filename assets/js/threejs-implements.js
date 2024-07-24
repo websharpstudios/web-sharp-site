@@ -1,8 +1,12 @@
-let scene, camera, renderer, particles;
+let particles;
 let mouseX = 0, mouseY = 0;
 
-init();
-animate();
+var scene, camera, renderer, document= null;
+
+document.addEventListener('DOMContentLoaded', () => {
+  init();
+  animate();
+});
 
 function init() {
   scene = new THREE.Scene();
