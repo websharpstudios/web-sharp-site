@@ -563,10 +563,15 @@
   <div id="wrapper" class="">
   {% include header.html %} 
   </div>
-  
-  <main>
-    {{ content }} 
-  </main>
+
+  <div id="main">
+	<div id="container">
+		<div id="content">
+			{{ content }}
+		</div>
+	</div>
+  </div>
+
 
   {% include footer.html %}
 

@@ -1,0 +1,16 @@
+- title: "E-Commerce Solutions"
+  url: "/our-services/e-commerce-solutions/"
+  image: "/images/services/ecommerce.jpg" # Replace with actual image path
+  description: "Build a powerful and secure online store with our customized e-commerce solutions." 
+- title: "Identity & Access Management"
+  url: "/our-services/identity-and-access-management/"
+  image: "/images/services/iam.jpg" # Replace with actual image path
+  description: "Secure your sensitive data and applications with our comprehensive identity and access management services."
+- title: "Penetration Testing"
+  url: "/our-services/penetration-testing/"
+  image: "/images/services/pentest.jpg" # Replace with actual image path
+  description: "Identify and mitigate security vulnerabilities with our expert penetration testing services."
+- title: "Custom Data Solutions"
+  url: "/our-services/custom-data-solutions/"
+  image: "/images/services/data-solutions.jpg" # Replace with actual image path
+  description: "We build tailored data solutions to meet your unique business needs and drive growth."
