@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Web(#) Sharp - Office Locations
-permalink: /locations
+permalink: /contact
 ---
 
-## Welcome to our website!
+## Contact Us
+Our office locations are open M-F 8am - 5pm Central Time
+

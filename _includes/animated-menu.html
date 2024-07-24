@@ -1,30 +1,72 @@
- 
-<script>
-  // Initialize Three.js scene, camera, and renderer
+<nav>
+  <ul>
+    {% for item in site.data.menu %}
+      <li>
+        <a href="{{ item.url }}">{{ item.title }}</a>
+        {% if item.submenu %}
+          <ul>
+            {% for subitem in item.submenu %}
+              <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
+            {% endfor %}
+          </ul>
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
 
-  // const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
-  const renderer = new THREE.WebGLRenderer({ alpha: true }); // Alpha: true for transparency
-  renderer.setSize(window.innerWidth, window.innerHeight);
-  document.body.appendChild(renderer.domElement);
-
-  // Load menu data
-  fetch('/_data/menu.yml')
-    .then(response => response.text())
-    .then(yamlText => {
-      const menuData = jsyaml.load(yamlText); // Assuming you are using a YAML parser like js-yaml
-      createMenu(menuData);
-    });
-
-  // Function to create the animated menu
-  function createMenu(menuData) {
-    // ... (Implementation for creating menu items, animations, and event listeners using Three.js)
+<style>
+  /* Basic Navigation Styling */
+  nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-around; /* Evenly space top-level items */
+    padding: 1em;
   }
 
-  // Animation loop
-  function animate() {
-    requestAnimationFrame(animate);
-    // ... (Update animations here)
-    renderer.render(scene, camera);
+  nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
   }
-  animate();
-</script>
+
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5em 1em;
+  }
+
+  /* Dropdown Styling */
+  nav li {
+    position: relative; /* For positioning submenus */
+  }
+
+  nav ul ul {
+    display: none; /* Hide submenus by default */
+    position: absolute;
+    background-color: #333;
+    top: 100%;
+    left: 0;
+    min-width: 150px;
+  }
+
+  nav li:hover > ul {
+    display: block; /* Show submenu on hover */
+  }
+
+  /* Styling for submenu items */
+  nav ul ul li {
+    width: 100%; /* Make submenu items full width */
+  }
+
+  nav ul ul a {
+    padding: 0.5em 1em;
+    display: block; /* Make submenu links block-level */
+  }
+
+  /* Optional: Add a hover effect to submenu items */
+  nav ul ul a:hover {
+    background-color: #555;
+  }
+</style>

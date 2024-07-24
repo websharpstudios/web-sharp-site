@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Statement  
-permalink: / 
+permalink: /privacy-statement
 ---
 
 ## Welcome to our website!

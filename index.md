@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Home  
+title: Web Sharp (#) Studios   
 permalink: / 
 ---
 
-## Welcome to our website!
+## Web Sharp Studios
+We make websites awesome
