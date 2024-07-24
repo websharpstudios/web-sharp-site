@@ -15,12 +15,12 @@ title_separator          : "-"
 subtitle                 : "Development Test Site"
 name                     : "Scott Weeden"
 description              : "We make websites awesome."
-url                      : "https://websharpstudios.github.io"
+url                      : "https://websharpstudios.com"
 baseurl                  : ""
 repository               : "websharpstudios/web-sharp-site"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Web (#) Sharp" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Web Sharp" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
