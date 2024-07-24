@@ -1,7 +1,0 @@
-{
-    "CodeGPT.apiKey": "CodeGPT Plus Beta",
-    "files.exclude": {
-        "**/.github": true,
-        "**/_site": true
-        }
-}
