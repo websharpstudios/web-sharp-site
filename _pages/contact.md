@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: search
 title: Contact Us
 permalink: /contact/
 ---

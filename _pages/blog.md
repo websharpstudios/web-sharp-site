@@ -1,5 +1,5 @@
 ---
-layout: sample-page
+layout: search
 title: Blog
 permalink: /blog/
 ---
