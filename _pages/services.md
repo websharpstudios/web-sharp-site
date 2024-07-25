@@ -2,6 +2,7 @@
 layout: search
 title: Our Services
 permalink: /services/
+author_profile: false
 ---
 
 ## Services We Offer
