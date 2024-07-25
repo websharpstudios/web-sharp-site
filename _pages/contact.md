@@ -9,7 +9,7 @@ tags:
   - studio
   - in-person
   - visiting
-  permalink: /contact/
+permalink: /contact/
 ---
 ## Our Location
 
