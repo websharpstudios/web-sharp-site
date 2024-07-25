@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Web Sharp Studios"
 title_separator          : "-"
-subtitle                 : "Supercharge Growth"
+subtitle                 : "Web (#) Sharp"
 name                     : "Scott Weeden"
 description              : "A Portland, Oregon software startup with products in finance, accounting, and legal."
 url                      : "https://websharpstudios.com"
@@ -92,7 +92,7 @@ analytics:
 author:
   name             : "Scott Weeden"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Identity and Access Management Software Developer"
+  bio              : "Software Developer and Systems Integrations"
   location         : "Texas"
   links:
     - label: "https://websharpstudios.com"
