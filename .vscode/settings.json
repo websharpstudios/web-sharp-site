@@ -12,7 +12,8 @@
         "**/dist": true,
         "**/_site": true,
         "**/docs": true,
-        "**/test": true
+        "**/test": true,
+        "**/.jekyll-cache": true
     }
       
 }

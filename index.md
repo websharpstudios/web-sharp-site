@@ -1,7 +1,7 @@
 ---
 title: "Web Sharp Studios"
 layout: splash
-permalink: /index/
+permalink: /index.html
 date: 2024-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
