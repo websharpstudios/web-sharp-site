@@ -9,8 +9,9 @@ tags:
   - studio
   - in-person
   - visiting
+  permalink: /offices/
 ---
-## Our Location
+## Find us across the street from OMSI (Oregon Museum of Science and Industry)
 
 Web Sharp Studios is located on the second floor of the Pitman building.
 
