@@ -7,9 +7,9 @@ tags:
   - location
   - contact
   - studio
-  - in-person
   - visiting
 permalink: /contact/
+author_profile: false
 ---
 ## Our Location
 

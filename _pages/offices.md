@@ -6,11 +6,9 @@ tags:
   - office
   - location
   - contact
-  - studio
-  - in-person
   - visiting
-  permalink: /offices/
-  author_profile: false
+permalink: /offices/
+author_profile: false
 ---
 ## Find us across the street from OMSI (Oregon Museum of Science and Industry)
 
