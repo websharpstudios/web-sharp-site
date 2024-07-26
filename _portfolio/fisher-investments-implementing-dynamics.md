@@ -1,6 +1,6 @@
 ---
 title: "Fisher Investments - E-Sign helps firm reach milestone of 100k Client "
-excerpt: "When systems work smoothly and reduce onboarding time, less grunt work for employees, fewer hang ups in signing new clients. This is how you measure success."
+excerpt: "When systems work smoothly and reduce onboarding time, less grunt work for employees, fewer hang ups in signing new clients. This is how we measure success."
 header:
   image: /assets/images/unsplash-gallery-image-3.jpg
   teaser: assets/images/unsplash-gallery-image-3-th.jpg
@@ -17,8 +17,6 @@ gallery:
 ---
 
 ### Fisher Investments - E-Sign Helps Firm Reach Milestone of 100k Clients
-
-**Excerpt:** When systems work smoothly and reduce onboarding time, less grunt work for employees, fewer hang-ups in signing new clients. This is how you measure success.
 
 In today's fast-paced financial services industry, operational efficiency and seamless client onboarding are paramount. Fisher Investments, a leading investment advisory firm, recently celebrated a significant milestone: surpassing 100,000 clients. This achievement was made possible through the successful integration of their document management system with their customer management system, enabling E-signature capabilities across the board. Our team played a pivotal role in this transformation, streamlining processes and enhancing client experience.
 
@@ -56,8 +54,5 @@ The successful integration of Fisher Investments' document management system wit
 
 Our team is proud to have played a role in this success story, demonstrating our commitment to delivering innovative solutions that drive results. As Fisher Investments continues to grow, we look forward to supporting their journey with cutting-edge technology and unparalleled expertise.
 
----
-
-This article showcases the technical achievements and business benefits of the integration project, highlighting the value delivered to Fisher Investments and their clients.
 
 
