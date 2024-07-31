@@ -43,9 +43,3 @@ gem "rubocop", "1.65.0"
 gem "rubocop-performance", "1.21.1"
 gem "webmock", "3.23.1"
 
-
-group :test do
-  gem "rubocop", "~> 1.37"
-  gem "rubocop-performance"
-  gem "webmock"
-end
