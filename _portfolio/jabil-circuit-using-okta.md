@@ -1,30 +1,58 @@
 ---
-title: "Fizz Bang Identity"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+title: "Jabil Empowered: Streamlining Access and Productivity with Okta Single Sign-On"
+excerpt: "Discover how Jabil implemented a centralized Okta dashboard, providing employees with seamless access to essential applications and boosting productivity."
 header:
-  image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/unsplash-gallery-image-2-th.jpg
+  image: /assets/images/jabil-okta-dashboard.jpg # Replace with a relevant image
+  teaser: assets/images/jabil-okta-dashboard-th.jpg # Replace with a thumbnail version
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
+    image: /assets/images/your-logo.png # Replace with your company or team logo
+    image_alt: "[Your Company/Team Name] Logo"
+    text: "Solution Architect, Identity and Access Management Specialist"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Designed and implemented Okta Single Sign-On solution, Customized the Okta dashboard for Jabil's specific needs, Developed documentation and training materials, Provided ongoing support and maintenance."
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - url: /assets/images/jabil-okta-1.jpg
+    image_path: assets/images/jabil-okta-1-th.jpg
+    alt: "Jabil Employee Accessing Okta Dashboard"
+  - url: /assets/images/jabil-okta-2.jpg
+    image_path: /assets/images/jabil-okta-2-th.jpg
+    alt: "Okta Application Integration"
+  - url: /assets/images/jabil-okta-3.jpg
+    image_path: /assets/images/jabil-okta-3-th.jpg
+    alt: "Simplified User Experience with Okta"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+## The Challenge
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+Jabil, a global manufacturing solutions provider, faced challenges with managing employee access to a wide range of applications. Multiple login credentials and complex access processes hindered productivity and user experience. 
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+## The Solution
+
+We implemented a centralized Okta Single Sign-On (SSO) solution, providing Jabil employees with a single dashboard to access all their essential applications. 
+
+* **Unified Access:** The Okta dashboard became the central hub for Jabil employees, offering quick and easy access to applications, resources, and tools.
+* **Enhanced Security:** Okta's robust security features, including multi-factor authentication (MFA), strengthened Jabil's security posture by protecting sensitive data and applications.
+* **Increased Productivity:**  SSO eliminated the need for employees to remember multiple passwords, reducing password reset requests and improving productivity.
+* **Seamless User Experience:** The intuitive Okta dashboard provided a consistent and user-friendly experience, simplifying access for employees across various locations and departments.
+
+## Jabil: On the Cutting Edge
+
+Jabil's commitment to innovation extended beyond adopting Okta. Their technical team actively contributed to the Okta community by:
+
+* **Providing Updated Samples and Documentation:** Jabil's insights and real-world experience helped improve Okta's documentation and provided valuable resources for other Okta users.
+* **Collaborating with Okta:** Jabil worked closely with Okta's development team, providing feedback and suggestions to enhance Okta's features and functionality.
+
+## The Results
+
+The Okta implementation delivered significant benefits for Jabil:
+
+* **Improved Employee Satisfaction:** The simplified access experience and increased productivity led to higher employee satisfaction.
+* **Reduced IT Overhead:** Centralized access management and reduced password reset requests freed up IT resources for other strategic initiatives.
+* **Enhanced Security Posture:** Okta's robust security features strengthened Jabil's overall security posture, protecting sensitive data and applications.
+
+## Conclusion
+
+Jabil's successful Okta implementation showcases the transformative power of a centralized identity and access management solution. By embracing Okta and actively contributing to its community, Jabil demonstrated its commitment to innovation and technological excellence.
+
+**[Include relevant images in the "assets/images" directory and update the image paths in the front matter accordingly.]** 
