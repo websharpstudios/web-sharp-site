@@ -17,37 +17,37 @@ description              : "A Portland, Oregon software startup"
 url                      : "https://websharpstudios.com"
 baseurl                  : ""
 repository               : "websharpstudios/web-sharp-site"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/apple-touch-icon.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
-breadcrumbs              : true # true, false (default)
+breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman" # false (default), "disqus", "discourse", "facebook", "staticman", "utterances", "giscus", "custom"
+  provider               : false # (default), "disqus", "discourse", "facebook", "staticman", "utterances", "giscus", "custom"
   disqus:
     shortname            : "cloudfronts"
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server               : "" # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid                : ""
+    num_posts            : 5 # 5 (default)
+    colorscheme          : "light" # "light" (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
-    issue_term           : # "pathname" (default)
+    theme                : "github-light" # "github-light" (default), "github-dark"
+    issue_term           : "pathname" # "pathname" (default)
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
+    repo_id              : "" # Shown during giscus setup at https://giscus.app
+    category_name        : "" # Full text name of the category
+    category_id          : "" # Shown during giscus setup at https://giscus.app
+    discussion_term      : "pathname" # "pathname" (default), "url", "title", "og:title"
+    reactions_enabled    : '1' # '1' for enabled (default), '0' for disabled
     theme                : "dark" # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    branch               : "master"
+    endpoint             : "" # "https://{your Staticman v3 API}/v3/entry/github/"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : "" # blank (default) uses feed.xml
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
 search_provider          : "lunr"
@@ -60,17 +60,17 @@ algolia:
   powered_by             : true
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
-yandex_site_verification :
+google_site_verification : ""
+bing_site_verification   : ""
+yandex_site_verification : ""
 
 # Social Sharing
 twitter:
   username               : "opencoarrays"
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
+  username               : ""
+  app_id                 : ""
+  publisher              : ""
 og_image                 : "/assets/images/bio-photo.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -85,7 +85,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id          : ""
 
 
 # Site Author
@@ -95,7 +95,7 @@ author:
   bio              : "Software Developer and Systems Integrations"
   location         : "Texas"
   links:
-    - label: "https://websharpstudios.com"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://websharpstudios.com"
     - label: "Twitter"
@@ -192,7 +192,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: "America/Denver"
 
 
 # Plugins (previously gems:)
@@ -202,6 +202,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -210,6 +211,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-archives
 
 
 # Archives
@@ -281,7 +283,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-  # _recipes
+  # _products
   - scope:
       path: "_products"
       type: products

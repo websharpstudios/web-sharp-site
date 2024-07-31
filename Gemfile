@@ -1,10 +1,28 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
-# use local theme gem for testing
-# gem "minimal-mistakes-jekyll", path: "../"
+# gem "jekyll", "~> 3.9"
+
+# The following plugins are automatically loaded by the theme-gem:
+#   gem "jekyll-paginate"
+#   gem "jekyll-sitemap"
+#   gem "jekyll-gist"
+#   gem "jekyll-feed"
+#   gem "jekyll-include-cache"
+#   gem "jekyll-archives"
+
 group :jekyll_plugins do
-  gem 'jekyll-algolia', '~> 1.0'
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+  gem "jekyll-gist"
+  gem "jekyll-feed"
+  gem "jekyll-include-cache"
+  gem "jekyll-archives"
 end
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
-gem "webrick"
+# To use GitHub Pages, replace the `gem "jekyll"` line with:
+gem "github-pages", group: :jekyll_plugins
+
+# To be on the bleeding edge, use the latest version of Minimal Mistakes from GitHub:
+gem "minimal-mistakes-jekyll", github: "mmistakes/minimal-mistakes"
