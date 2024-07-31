@@ -1,0 +1,1390 @@
+ 
+{
+
+"total":"15",
+"limit":"500",
+"start":"0",  
+"data":[
+
+{
+
+"id":"1A5B19B8-BF1F-4803-8D87-2D4091D59A4D"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/bridgebaycg.htm"
+
+,"name":"Bridge Bay Campground"      
+
+,"parkCode":"yell"
+
+,"description":"Bridge Bay Campground—elevation 7,800 feet (2377 m)—is located near Yellowstone Lake, one of the largest, high-elevation, fresh-water lakes in North America. Campers at Bridge Bay will enjoy spectacular views of the lake and the Absaroka Range rising above the lake's eastern shore. Yellowstone National Park Lodges provides reservations for this campground."
+
+,"latitude":
+
+"44.534437749" 
+
+,"longitude":
+
+"-110.436923682" 
+
+,"latLong":"{lat:44.534437749, lng:-110.436923682}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"451A1473-7B3A-448D-8571-B69016C2B5C0"
+
+,"reservationInfo":"Yellowstone National Park Lodges provides reservations for in this campground. Call 307-344-7311 (307-344-5395 for TDD service) or select the \"Reservations >\" button to open their online reservation system."
+
+,"reservationUrl":"https://secure.yellowstonenationalparklodges.com/booking/lodging"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 11 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Flush Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"Yes - seasonal","laundry":"No","amphitheater":"Yes - seasonal","dumpStation":"Yes - seasonal","campStore":"Yes - seasonal","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"Yes - seasonal","firewoodForSale":"Yes - seasonal","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"307-344-7311","description":"","extension":"","type":"Voice"},{"phoneNumber":"307-344-7456","description":"","extension":"","type":"Fax"},{"phoneNumber":"307-344-5395","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"reserve-ynp@xanterra.com"}]}
+,"fees":[{"cost":"33.00","description":"Rates do not include taxes or utility fees and are subject to change. Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"},{"cost":"10.00","description":"This is the per-person cost for a hiker/bicyclist campsite for one night.","title":"Hiker/bicyclist Nightly Fee"},{"cost":"165.00","description":"Nightly cost for a group campsite with 1–19 people in the party. All rates subject to applicable taxes and fees.","title":"Group (1–19 People)"},{"cost":"250.00","description":"Nightly cost for a group campsite with 20–29 people in the party. All rates subject to applicable taxes and fees.","title":"Group (20–29 People)"},{"cost":"325.00","description":"Nightly cost for a group campsite with 30–39 people in the party. All rates subject to applicable taxes and fees.","title":"Group (30–39 People)"},{"cost":"400.00","description":"Nightly cost for a group campsite with 40–49 people in the party. All rates subject to applicable taxes and fees.","title":"Group (40–49 People)"},{"cost":"475.00","description":"Nightly cost for a group campsite with 50–60 people in the party. All rates subject to applicable taxes and fees.","title":"Group (50–60 People)"}]
+,"directionsOverview":"Located on the Grand Loop Road just a few miles southwest of Lake Village and next to the Bridge Bay Marina."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-09-02","name":"Closed","endDate":"2025-05-16"}],"description":"The campground is only open during summer. Checkout time is 11 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Bridge Bay Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates: N 44 32.070 W 110 26.218","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 165","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"Sign","caption":"Bridge Bay Campground is located close to the Bridge Bay Marina and Yellowstone Lake.","url":"https://www.nps.gov/common/uploads/structured_data/3C85386A-1DD8-B71B-0B318D416ECCFD35.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"Tents at campsite","caption":"The campground location encompasses woods and meadows and some sites look out on Yellowstone Lake.","url":"https://www.nps.gov/common/uploads/structured_data/3C853A1A-1DD8-B71B-0B2A18034CDE6EBD.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"Tents at campground site","caption":"Bison are frequent visitors at Bridge Bay Campground.","url":"https://www.nps.gov/common/uploads/structured_data/3C853DF1-1DD8-B71B-0BB6DC9B887F4329.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"Tent at campground","caption":"Bridge Bay Campground.","url":"https://www.nps.gov/common/uploads/structured_data/3C853F08-1DD8-B71B-0B67CE5771B270E0.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"Campsite in trees","caption":"Bridge Bay Campground offers camping sites in the trees and meadows.","url":"https://www.nps.gov/common/uploads/structured_data/3C854075-1DD8-B71B-0BF7B6854F406BED.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"RV at campsite","caption":"Bridge Bay Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C861666-1DD8-B71B-0B13290665426F19.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"RV at campsite","caption":"Bridge Bay Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8617F3-1DD8-B71B-0B539F8A422D4345.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bridge Bay Campground","altText":"Tent at campsite","caption":"Bridge Bay Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C86192D-1DD8-B71B-0B0A7223F4A57936.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"432"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"432",
+"group":"4",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"",
+"cellPhoneInfo":"There is a cell phone tower near Lake Village: check with your provider to verify coverage. The number of people in the busy summer months of July and August can overwhelm cellular circuits resulting in an inability to send or receive a call, text, or data.",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"Campground sites that will accommodate a maximum combined length of 40-feet or more are limited. Most campsites in Yellowstone will not accommodate oversize units. Call Yellowstone National Park Lodges at 307-344-7311 (307-344-5395 for TDD services) for more information. When calling to make a reservation, be prepared to give the size of your tent (in feet) or the combined length of your RV and any other vehicles or towed vehicles.",
+"rvMaxLength":"0",
+"additionalInfo":"Showers not included.",
+"trailerMaxLength":"0",
+"adaInfo":"Three accessible campsites. Accessible restrooms are located in Loop A of campground and in the picnic area along the entrance road to Bridge Bay Marina.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"8C42E6D8-1819-46F3-A363-3C8107A1AFAC"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/canyoncg.htm"
+
+,"name":"Canyon Campground"      
+
+,"parkCode":"yell"
+
+,"description":"Canyon Campground—elevation 7,900 feet (2408 m)—lies in a lodgepole pine forest at Canyon Village, south of the Washburn range and near the breath-taking Grand Canyon of the Yellowstone River. Canyon Village offers stores, restaurants, and lodging. Nearby hikes include Cascade Lake, Mount Washburn, and the Canyon Rim trails. Yellowstone National Park Lodges provides reservations for this campground."
+
+,"latitude":
+
+"44.7353837489" 
+
+,"longitude":
+
+"-110.487912383" 
+
+,"latLong":"{lat:44.7353837489, lng:-110.487912383}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"CA8F49A9-1919-4360-8441-685BA23C3347"
+
+,"reservationInfo":"Yellowstone National Park Lodges provides reservations for in this campground. Call 307-344-7311 (307-344-5395 for TDD service) or select the \"Reservations >\" button to open their online reservation system."
+
+,"reservationUrl":"https://secure.yellowstonenationalparklodges.com/booking/lodging"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 11 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Flush Toilets - seasonal"],"internetConnectivity":"No","showers":["Hot - Seasonal"],"cellPhoneReception":"Yes - seasonal","laundry":"Yes - seasonal","amphitheater":"Yes - seasonal","dumpStation":"Yes - seasonal","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"Yes - seasonal","firewoodForSale":"Yes - seasonal","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"307-344-7311","description":"","extension":"","type":"Voice"},{"phoneNumber":"307-344-7456","description":"","extension":"","type":"Fax"},{"phoneNumber":"307-344-5395","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"reserve-ynp@xanterra.com"}]}
+,"fees":[{"cost":"39.00","description":"Rates do not include taxes or utility fees and are subject to change. Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"},{"cost":"10.00","description":"This is the per-person cost for a hiker/bicyclist campsite for one night.","title":"Hiker/bicyclist Nightly Fee"}]
+,"directionsOverview":"Located off the Grand Loop Road near Canyon Village and the Grand Canyon of the Yellowstone."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-09-14","name":"Closed","endDate":"2025-05-30"}],"description":"The campground is only open during summer. Checkout time is 11 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Canyon Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates: N 44 44.118 W110 29 17","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 165","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS / Neal Herbert","crops":[],"title":"Canyon Campground","altText":"Campsite in the Canyon Campground","caption":"Campsite in the Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F2AF058-1DD8-B71B-0BAA7C18ECC643DC.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Canyon Campground","altText":"RV dump station at the Canyon Campground","caption":"RV dump station at the Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F2EE5A9-1DD8-B71B-0B925C3814979BD6.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Canyon Campground","altText":"Campsites","caption":"Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8624F1-1DD8-B71B-0B4247166AF8ADA7.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Canyon Campground","altText":"Large boulder at a campsite","caption":"Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C86261C-1DD8-B71B-0BE2A7791D6898E4.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Canyon Campground","altText":"Campsite at campground","caption":"Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C862719-1DD8-B71B-0B84346B9F8E2554.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Canyon Campground","altText":"Tent at campsite","caption":"Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C86288F-1DD8-B71B-0BEE332C4513783E.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Canyon Campground","altText":"Tent at campsite","caption":"Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C86299E-1DD8-B71B-0B5A6C62FDDF177E.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Canyon Campground","altText":"RV at campsite","caption":"Canyon Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C862B1F-1DD8-B71B-0B55DD39BA3867CA.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"273"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"273",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"",
+"cellPhoneInfo":"There is a cell phone tower near Canyon Village: check with your provider to verify coverage. The number of people in the busy summer months of July and August can overwhelm cellular circuits resulting in an inability to send or receive a call, text, or data.",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"Campground sites that will accommodate a maximum combined length of 40-feet or more are limited. Most campsites in Yellowstone will not accommodate oversized units. Call Yellowstone National Park Lodges at 307-344-7311 (307-344-5395 for TDD services) for more information. When calling to make a reservation, be prepared to give the size of your tent (in feet) or the combined length of your RV and any other vehicles or towed vehicles.",
+"rvMaxLength":"0",
+"additionalInfo":"Price includes two showers per site per night.",
+"trailerMaxLength":"0",
+"adaInfo":"Three accessible sites in Loop L, with an extended picnic table and a raised fire grate. Accessible restrooms are located near the accessible sites. (The camper services building is not accessible.)",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"849C892E-19ED-4539-8591-CF2D1670D380"
+
+,"url":"https://www.nps.gov/ciro/planyourvisit/camping.htm"
+
+,"name":"City of Rocks Campground"      
+
+,"parkCode":"ciro"
+
+,"description":"Camping in City of Rocks is a great way to enjoy being out in nature. Relax beneath the cool shade of aspen, juniper, mountain mahogany, or pine. Spend the night surrounded by impressive granite formations and starry skies. There are 64 standard campsites and 3 group sites to choose from with easy access to climbing, hiking trails, and vistas."
+
+,"latitude":
+
+"42.067203" 
+
+,"longitude":
+
+"-113.701382" 
+
+,"latLong":"{lat:42.067203, lng:-113.701382}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":""
+
+,"reservationInfo":"Reservations can be made May 1st through September 30th by visiting https://www.reserveamerica.com or by calling 888-922-6743. October 1st through April 30th camping is first-come first-served."
+
+,"reservationUrl":"https://www.reserveamerica.com/explore/city-of-rocks-national-reserve/ID/315044/overview"
+
+,"regulationsurl":"https://parksandrecreation.idaho.gov/camping/"
+
+,"regulationsOverview":"Campground regulations conform to the rules of the Idaho Department of Parks and Recreation."
+
+,"amenities":{"trashRecyclingCollection":"No","toilets":["Vault Toilets - year round"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"No","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"No","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"No"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"208–824–5901","description":"","extension":"","type":"Voice"}],"emailAddresses":[{"description":"","emailAddress":"ciro_superintendent@nps.gov"}]}
+,"fees":[{"cost":"14.00","description":"8 people, 2 tents, and 2 vehicles per site. All equipment must fit within the designated camping area. All campsites have a fire-ring/ground grill and a picnic table.\n\nReservation fee is $10. This fee does not apply for walk-ins paying by envelope or in person at the Visitor Center.","title":"Campsite Fee"},{"cost":"36.00","description":"$3 per person, 12 person minimum ($36 minimum)\n$10 reservation fee. \n\nThe reservation fee does not apply for walk-ins paying by envelope or in person at the Visitor Center.","title":"Group Campsite Fee"}]
+,"directionsOverview":"64 campsites are located over a 6-mile area along City of Rocks Road and Twins Sisters Road."
+
+,"directionsUrl":""
+
+,"operatingHours":[{"exceptions":[],"description":"City of Rocks National Reserve is open to camping year-round, though some sites may be covered in snow during the winter or inaccessible by vehicle. Reservations can be made online at  www.reserveamerica.com or by calling 888-922-6743. Camping is first-come first-served only October 1 through April 30.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"City of Rocks Campground"}]
+,"addresses":[{"postalCode":"83312","city":"Almo","stateCode":"ID","countryCode":"US","provinceTerritoryCode":"","line1":"City of Rocks National Reserve Visitor Center","type":"Physical","line3":"","line2":"3035 Elba-Almo Road"},{"postalCode":"83312","city":"Almo","stateCode":"ID","countryCode":"US","provinceTerritoryCode":"","line1":"City of Rocks National Reserve","type":"Mailing","line3":"","line2":"PO Box 169"}]
+,"images":[{"credit":"NPS Photo","crops":[],"title":"Camping Under the Milky Way","altText":"An orange tent glows in early pre-dawn beneath the milky way in a star filled sky.","caption":"The dark skies in City of Rocks provide excellent conditions for star gazing.","url":"https://www.nps.gov/common/uploads/structured_data/F557A994-A804-73A5-94B5799AC9B1C06A.jpg"},{"credit":"NPS Photo/Wallace Keck","crops":[],"title":"City of Rocks Camping 01","altText":"A blue tent is nestled in shade of mountain mahogany","caption":"Camping among the rocks is popular","url":"https://www.nps.gov/common/uploads/structured_data/CD654F0E-1DD8-B71B-0B1A998AA41221E7.jpg"},{"credit":"NPS Photo/Wallace Keck","crops":[],"title":"City of Rocks Camping 02","altText":"A camp trailer is parked with granite rocks behind","caption":"Some campsites are suitable for small RV campers","url":"https://www.nps.gov/common/uploads/structured_data/CD7AA2ED-1DD8-B71B-0BD3B2C897952BC7.jpg"},{"credit":"NPS Photo","crops":[],"title":"City of Rocks Camping 03","altText":"Numerous tents are set up below granite rocks","caption":"City of Rocks offers group camping areas","url":"https://www.nps.gov/common/uploads/structured_data/26AF30BD-055F-DD8C-C2BDB6EC1DB8FBF0.jpg"}]
+,"weatherOverview":"Summers are generally dry with temperatures from lows in the 40's to highs in the 80's, but prepare for extremes. Afternoon thunderstorms are common in the summer months. Winter weather includes lows in the upper teens and daytime highs in the low 40's. Snow can accumulate up to 12-16 inches at times in the Almo Valley and over 24 inches in the Reserve. Typically the valley snow melts to within a few inches, but can drift many feet in the higher elevations."
+
+,"numberOfSitesReservable":"67"
+
+,"numberOfSitesFirstComeFirstServe":"6"
+
+,"campsites":{
+"totalSites":"67",
+"group":"3",
+"horse":"1",
+"tentOnly":"49",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"27",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"City of Rocks Campground is fairly primitive, roads and pathways are graveled and steep in some places. All restrooms are ADA accessible. The most level and accessible campsites are 5, 12, 20, 27, 39, and 63",
+"internetInfo":"The Visitor Center offers free Wi-Fi 24/7.",
+"cellPhoneInfo":"AT&T has good cell coverage in the town of Almo, Verizon is limited to certain areas.",
+"fireStovePolicy":"Campfires in designated metal fire rings only.",
+"rvAllowed":"1",
+"rvInfo":"RVs 28 feet or less are permitted in the following sites in City of Rocks Campground: 5, 7, 12, 13, 15, 20, 33, 34, 35, 46, 47, 57, 63, 64. Larger RVs and trailers will find more suitable accommodations at nearby Smoky Mountain Campground. Facilities there include water and electrical hookups, dump station, flush toilets and showers, and designated ADA campsites.",
+"rvMaxLength":"28",
+"additionalInfo":"Almo private businesses include food, gas, lodging, ice, firewood, and camping supplies.",
+"trailerMaxLength":"28",
+"adaInfo":"City of Rocks Campground is fairly primitive, roads and pathways are graveled and steep in some places. All restrooms are ADA accessible. The most level and accessible campsites are 5, 12, 20, 27, 39, and 63",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Unpaved Roads - All vehicles OK in good weather"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"64ABF507-2DCD-4FE4-90B9-F2C5636D4B52"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/fishingbridgecg.htm"
+
+,"name":"Fishing Bridge RV Park"      
+
+,"parkCode":"yell"
+
+,"description":"Fishing Bridge RV Park—elevation 7,800 feet (2377 m)—is located near the Yellowstone River where it exits Yellowstone Lake on its way toward the Grand Canyon of the Yellowstone. Only campground in Yellowstone to offer water, sewer, and electrical hookups. Because grizzly bears frequent the area, no tents or tent campers are allowed. Yellowstone National Park Lodges provides reservations for this campground."
+
+,"latitude":
+
+"44.5647552491" 
+
+,"longitude":
+
+"-110.369472283" 
+
+,"latLong":"{lat:44.5647552491, lng:-110.369472283}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"961BEF78-B295-4217-9C3D-2A3FAC2B8153"
+
+,"reservationInfo":"Yellowstone National Park Lodges provides reservations for in this campground. Call 307-344-7311 (307-344-5395 for TDD service) or select the \"Reservations >\" button to open their online reservation system."
+
+,"reservationUrl":"https://secure.yellowstonenationalparklodges.com/booking/lodging"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Tents or tent-trailers are not allowed in the Fishing Bridge RV Park. Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 11 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Flush Toilets - seasonal"],"internetConnectivity":"No","showers":["Coin-Operated - Seasonal"],"cellPhoneReception":"Yes - seasonal","laundry":"Yes - seasonal","amphitheater":"Yes - seasonal","dumpStation":"Yes - seasonal","campStore":"Yes - seasonal","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"Yes - seasonal","firewoodForSale":"No","foodStorageLockers":"No"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"307-344-7311","description":"","extension":"","type":"Voice"},{"phoneNumber":"307-344-7456","description":"","extension":"","type":"Fax"},{"phoneNumber":"307-344-5395","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"reserve-ynp@xanterra.com"}]}
+,"fees":[{"cost":"89.00","description":"Rates do not include taxes or utility fees and are subject to change. Interagency Access and Senior Pass holders do not receive discounts at this campground.","title":"Nightly Fee"}]
+,"directionsOverview":"This campground is reached by the Grand Loop Road and is near the intersection of Lake and the East Entrance road."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-10-12","name":"Closed","endDate":"2025-05-10"}],"description":"The campground is only open during summer. Checkout time is 11 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Fishing Bridge RV Park"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates: N 44 33.820 W 110 22.167","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 165","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS/Renkin","crops":[],"title":"Fishing Bridge RV Park","altText":"Park structure","caption":"Fishing Bridge General Store","url":"https://www.nps.gov/common/uploads/structured_data/3C83AFDF-1DD8-B71B-0BEF4E71C3D2F3BF.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Fishing Bridge RV Park","altText":"Man dressed inraincoat standing in front of building.","caption":"Fishing Bridge RV Park has laundry and showers.","url":"https://www.nps.gov/common/uploads/structured_data/3C83B152-1DD8-B71B-0BEBB4A3E4B762DE.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Fishing Bridge RV Park","altText":"Recreational Vehicle parked.","caption":"An RV at Fishing Bridge RV park.","url":"https://www.nps.gov/common/uploads/structured_data/3C83B2BC-1DD8-B71B-0B76195949B7333F.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Fishing Bridge RV Park","altText":"Campers and RVs parked in campground.","caption":"Fishing Bridge RV Park.","url":"https://www.nps.gov/common/uploads/structured_data/3C83B45D-1DD8-B71B-0BC0712AD66E9837.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Fishing Bridge RV Park","altText":"Hard-sided camper at campground","caption":"Hard-side camping only at Fishing Bridge.","url":"https://www.nps.gov/common/uploads/structured_data/3C83B5DD-1DD8-B71B-0B35F82241906354.jpg"},{"credit":"NPS/Peaco","crops":[],"title":"Fishing Bridge RV Park","altText":"Row of RVs in a campground","caption":"Fishing Bridge RV Park","url":"https://www.nps.gov/common/uploads/structured_data/3C86034A-1DD8-B71B-0BFBE82ED15CABF6.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Fishing Bridge RV Park","altText":"RV at campsite","caption":"Located near Yellowstone Lake and Yellowstone River, Fishing Bridge is hard-sided camping only.","url":"https://www.nps.gov/common/uploads/structured_data/3C860454-1DD8-B71B-0B556DB13DB33C36.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"310"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"310",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"310",
+"rvOnly":"310",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are paved or compacted gravel/dirt with limited gradient change.",
+"internetInfo":"Wi-Fi is available at the Lake Lodge Cafeteria for guests.",
+"cellPhoneInfo":"There is a cell phone tower near Lake Village: check with your provider to verify coverage. The number of people in the busy summer months of July and August can overwhelm cellular circuits resulting in an inability to send or receive a call, text, or data.",
+"fireStovePolicy":"Campfires, including those in portable wood or propane fire pits, are prohibited in the Fishing Bridge RV Park.",
+"rvAllowed":"1",
+"rvInfo":"Campground sites that will accommodate a maximum combined length of 40-feet or more are limited. Most campsites in Yellowstone will not accommodate oversized units. Call Yellowstone National Park Lodges at 307-344-7311 (307-344-5395 for TDD services) for more information. When calling to make a reservation, be prepared to give the size of your tent (in feet) or the combined length of your RV and any other vehicles or towed vehicles.",
+"rvMaxLength":"0",
+"additionalInfo":"",
+"trailerMaxLength":"0",
+"adaInfo":"Four comfort stations meet ADA standards.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"E8EB610A-8BBA-490F-BC39-CBCB28909F20"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/grantcg.htm"
+
+,"name":"Grant Village Campground"      
+
+,"parkCode":"yell"
+
+,"description":"Grant Campground—elevation 7,800 feet (2377 m)—is located in Grant Village, just off the Grand Loop Road at the south end of Yellowstone Lake. It is one of the larger campgrounds in the park. Group and wheel-chair accessible sites are available. Nearby there are stores, a restaurant, gas station, visitor center, and boat ramp. Yellowstone National Park Lodges provides reservations for this campground."
+
+,"latitude":
+
+"44.3942533493729" 
+
+,"longitude":
+
+"-110.563444983232" 
+
+,"latLong":"{lat:44.3942533493729, lng:-110.563444983232}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"2F6E668A-12D8-4A33-9B47-0F8BEBF1BD5B"
+
+,"reservationInfo":"Yellowstone National Park Lodges provides reservations for in this campground. Call 307-344-7311 (307-344-5395 for TDD service) or select the \"Reservations >\" button to open their online reservation system."
+
+,"reservationUrl":"https://secure.yellowstonenationalparklodges.com/booking/lodging"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Campfires and portable fire pits are prohibited in the Fishing Bridge RV Park. Wood and charcoal fires are permitted in all other campgrounds (unless posted otherwise). Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Flush Toilets - seasonal"],"internetConnectivity":"No","showers":["Coin-Operated - Seasonal"],"cellPhoneReception":"Yes - seasonal","laundry":"Yes - seasonal","amphitheater":"Yes - seasonal","dumpStation":"Yes - seasonal","campStore":"Yes - seasonal","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"Yes - seasonal","firewoodForSale":"Yes - seasonal","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"307-344-7311","description":"","extension":"","type":"Voice"},{"phoneNumber":"307-344-7456","description":"","extension":"","type":"Fax"},{"phoneNumber":"307-344-5395","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"reserve-ynp@xanterra.com"}]}
+,"fees":[{"cost":"39.00","description":"Rates do not include taxes or utility fees and are subject to change. Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"},{"cost":"10.00","description":"This is the per-person cost for a hiker/bicyclist campsite for one night.","title":"Hiker/bicyclist Nightly Fee"},{"cost":"165.00","description":"Nightly cost for a group campsite with 1–19 people in the party. All rates subject to applicable taxes and fees.","title":"Group (1–19 People)"},{"cost":"250.00","description":"Nightly cost for a group campsite with 20–29 people in the party. All rates subject to applicable taxes and fees.","title":"Group (20–29 People)"},{"cost":"325.00","description":"Nightly cost for a group campsite with 30–39 people in the party. All rates subject to applicable taxes and fees.","title":"Group (30–39 People)"},{"cost":"400.00","description":"Nightly cost for a group campsite with 40–49 people in the party. All rates subject to applicable taxes and fees.","title":"Group (40–49 People)"},{"cost":"475.00","description":"Nightly cost for a group campsite with 50–60 people in the party. All rates subject to applicable taxes and fees.","title":"Group (50–60 People)"}]
+,"directionsOverview":"Located south of West Thumb on the South Entrance Road."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-09-07","name":"Closed","endDate":"2025-06-06"}],"description":"The campground is only open during summer. Checkout time is 11 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Grant Village Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates-- N 44 23.610 W 110 33.769","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 165","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS/Peaco","crops":[],"title":"Grant Village Campground","altText":"Tent at campsite","caption":"Grant Village Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8650F8-1DD8-B71B-0B9F9EBD808E126F.jpg"},{"credit":"NPS","crops":[],"title":"Grant Village Campground","altText":"Tent at campsite","caption":"Grant Village Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C865263-1DD8-B71B-0BEC76751F70A48F.jpg"},{"credit":"NPS","crops":[],"title":"Grant Village Campground","altText":"Restroom at campground","caption":"Grant Village Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8653D0-1DD8-B71B-0B8138295CC349AB.jpg"},{"credit":"NPS/Greenburg","crops":[],"title":"Grant Village Campground","altText":"Tent and campers at campsite.","caption":"Grant Village Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8655E6-1DD8-B71B-0B6F7BB8BB76C4A0.jpg"},{"credit":"NPS/Greenburg","crops":[],"title":"Grant Village Campground","altText":"Family picnicking at campsite.","caption":"Grant Village Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C865763-1DD8-B71B-0B6171F33ED8489E.jpg"},{"credit":"NPS","crops":[],"title":"Grant Village Campground","altText":"Camp trailer at campsite","caption":"Grant Village Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C865908-1DD8-B71B-0B67BF25940D10D9.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"430"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"430",
+"group":"8",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"Wi-Fi is available at the lodge in Grant Village for guests.",
+"cellPhoneInfo":"There is a cell phone tower near Grant Village: check with your provider to verify coverage. The number of people in the busy summer months of July and August can overwhelm cellular circuits resulting in an inability to send or receive a call, text, or data.",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"Campground sites that will accommodate a maximum combined length of 40-feet or more are limited. Most campsites in Yellowstone will not accommodate oversized units. Call Yellowstone National Park Lodges at 307-344-7311 (307-344-5395 for TDD services) for more information. When calling to make a reservation, be prepared to give the size of your tent (in feet) or the combined length of your RV and any other vehicles or towed vehicles.",
+"rvMaxLength":"0",
+"additionalInfo":"Rate includes two showers per site per day.",
+"trailerMaxLength":"0",
+"adaInfo":"Three accessible sites, with an extended picnic table and a raised fire grate. Accessible restrooms are located near the accessible sites. Accessible shower in Camper Services Building.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"31A8FCDE-C07A-465F-BABA-0AD338ED9938"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/indiancreekcg.htm"
+
+,"name":"Indian Creek Campground"      
+
+,"parkCode":"yell"
+
+,"description":"Located about eight miles south of Mammoth Hot Springs on the road to Norris, Indian Creek Campground—elevation 7,300 feet (2225 m)—sits near the base of the Gallatin Mountains and offers breathtaking views of Electric Peak. The area offers easy access to fishing and hiking. The campground is away from the main road and provides a quieter, more primitive, experience than many other locations. This is a reservable campground run by the National Park Service."
+
+,"latitude":
+
+"44.8870232478" 
+
+,"longitude":
+
+"-110.736068584" 
+
+,"latLong":"{lat:44.8870232478, lng:-110.736068584}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"2A127EEE-714A-4395-8AA7-DB426D1B9575"
+
+,"reservationInfo":"All sites are reservable on Recreation.gov. Eighty percent of sites are reservable six months in advance, while the remaining 20% of sites are available two weeks in advance."
+
+,"reservationUrl":"https://www.recreation.gov/camping/campgrounds/259304"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 10 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Vault Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"No","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"3073447381","description":"","extension":"","type":"Voice"},{"phoneNumber":"3073442014","description":"","extension":"","type":"Fax"},{"phoneNumber":"3073442386","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"YELL_Information@nps.gov"}]}
+,"fees":[{"cost":"20.00","description":"Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"}]
+,"directionsOverview":"Located on the Grand Loop Road between Mammoth Hot Springs and Norris."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-09-09","name":"Closed for the season","endDate":"2025-06-09"}],"description":"The campground is typically only open during summer. Checkout time is 10 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Indian Creek Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates--N: 44  53.22138 W: 110 44.16414","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 168","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS/Renkin","crops":[],"title":"Indian Creek Campground","altText":"People standing in front of log building","caption":"Indian Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C86338C-1DD8-B71B-0BBF9409E9D97F53.jpg"},{"credit":"NPS","crops":[],"title":"Indian Creek Campground","altText":"Bear Country sign","caption":"All campgrounds in Yellowstone including Indian Creek Campground is in bear country.","url":"https://www.nps.gov/common/uploads/structured_data/3C863563-1DD8-B71B-0B7C0D59A2264586.jpg"},{"credit":"NPS","crops":[],"title":"Indian Creek Campground","altText":"RV and people at a campsite","caption":"Indian Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C863680-1DD8-B71B-0BDAEDA7AB2E30C5.jpg"},{"credit":"NPS","crops":[],"title":"Indian Creek Campground","altText":"Tent at people at campsite.","caption":"Indian Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C863817-1DD8-B71B-0B577C87BD2BC7C0.jpg"},{"credit":"NPS","crops":[],"title":"Indian Creek Campground","altText":"Visitors setting up tent at campsite.","caption":"Indian Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C863ADC-1DD8-B71B-0B28E4C38D2830B2.jpg"},{"credit":"NPS","crops":[],"title":"Indian Creek Campground","altText":"Campsite with tent and picnic table.","caption":"Indian Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C863C88-1DD8-B71B-0BF1B8CC2399A0CB.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"70"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"70",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"10 sites at 35 feet (10.7 m), 35 sites at 30 feet (9.1 m). Sites may not be level.",
+"rvMaxLength":"0",
+"additionalInfo":"No recycling being collected at this campground.",
+"trailerMaxLength":"0",
+"adaInfo":"Two accessible campsites; accessible vault toilet adjacent to campsites.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"655E8DDE-9586-447E-B531-A93B31EEE1A0"
+
+,"url":"https://www.nps.gov/crmo/planyourvisit/camping.htm"
+
+,"name":"Lava Flow Campground"      
+
+,"parkCode":"crmo"
+
+,"description":"The Lava Flow Campground is a 42-site campground accessible by automobile from May through November depending on snow conditions. All sites are available on a first-come, first-served basis. Some sites will accommodate large RVs, but no hookups are available."
+
+,"latitude":
+
+"43.4607003086" 
+
+,"longitude":
+
+"-113.559131945" 
+
+,"latLong":"{lat:43.4607003086, lng:-113.559131945}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"AE020994-53AC-48A0-9CD4-2359BDC531ED"
+
+,"reservationInfo":"No reservations; all sites available on a first-come first-served basis."
+
+,"reservationUrl":""
+
+,"regulationsurl":"https://www.nps.gov/crmo/learn/management/lawsandpolicies.htm"
+
+,"regulationsOverview":"No wood fires are permitted. Quiet hours are from 10 pm to 6 am (no generators running, loud music, etc.). To claim a campsite, please leave an item and register for your site at the kiosk as soon as possible. Please help decrease the amount of waste that we send to our local landfill by utilizing the recycle center located in the campground near the entrance station. Our water supply is inadequate for filling water tanks. You are welcome to fill jugs but please fill RV tanks elsewhere. Car or RV camping is not permitted at the visitor center or along the Loop Road."
+
+,"amenities":{"trashRecyclingCollection":"Yes - year round","toilets":["Flush Toilets - seasonal","Vault Toilets - year round"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"Yes - seasonal","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"No","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"Yes - year round"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"(208) 527-1335","description":"","extension":"","type":"Voice"}],"emailAddresses":[{"description":"Craters of the Moon Information email box","emailAddress":"crmo_information@nps.gov"}]}
+,"fees":[{"cost":"15.00","description":"Fee per night for a single campsite. This fee is charged during the regular season when water is available, typically from May through October.","title":"Campground Fee - Regular Season"},{"cost":"7.50","description":"Discount applies only to Senior and Access Pass holders. There is no discount for America the Beautiful passholders.\n\nFee per night for a single campsite. This fee is charged during the regular season when water is available, typically from May through October.","title":"Campground Fee - Regular Season (with Senior or Access Pass)"},{"cost":"4.00","description":"Discount applies only to Senior and Access Pass holders. There is no discount for America the Beautiful passholders.\n\nFee per night for a single campsite. This fee is charged when water is unavailable in the campground, typically in April and November.","title":"Campground Fee - Shoulder Season (with Senior or Access Pass)"},{"cost":"8.00","description":"Fee per night for a single campsite. This fee is charged when water is unavailable in the campground, typically in April and November.","title":"Campground Fee - Shoulder Season"},{"cost":"0.00","description":"In winter (typically December through March) the campground is walk-in only. No fee is charged at this time. There is no access to the campground for RVs and other vehicles. No water is available.","title":"Campground Fee - Winter"}]
+,"directionsOverview":"Located on the Loop Road 1/4 mile past the visitor center."
+
+,"directionsUrl":"https://www.nps.gov/crmo/planyourvisit/camping.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"All Day"},"startDate":"2025-05-19","name":"Closure Due to Road Maintenance","endDate":"2025-05-24"},{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-11-18","name":"Closed to Vehicles - Tent Snow Camping Only","endDate":"2025-04-30"}],"description":"Sites are only available on a first come - first served basis. Campsites can be claimed at any time through a self-registration process. Pay for your site with a credit card at the automated fee machine. The campground closes to vehicle access when the Loop Road closes in late November. It reopens to vehicles in April or May when the Loop Road opens. You may still hike into the campground and snow camp during the winter months, but a free permit from the visitor center is required.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Lava Flow Campground"}]
+,"addresses":[{"postalCode":"83213","city":"Arco","stateCode":"ID","countryCode":"US","provinceTerritoryCode":"","line1":"Craters of the Moon National Monument","type":"Physical","line3":"1266 Craters Loop Road","line2":"Lava Flow Campground"},{"postalCode":"83213","city":"Arco","stateCode":"ID","countryCode":"US","provinceTerritoryCode":"","line1":"Craters of the Moon National Monument","type":"Mailing","line3":"","line2":"P.O. Box 29"}]
+,"images":[{"credit":"NPS / Jacob W. Frank","crops":[],"title":"Lava Flow Campground","altText":"A tent is nestled among black volcanic rock and shrubby plants.","caption":"The Lava Flow Campground offers a unique camping experience and is conveniently located near the park visitor center and popular trails.","url":"https://www.nps.gov/common/uploads/structured_data/B2FFFDEB-E873-E2E5-EA63FE4F2A9D877A.jpg"},{"credit":"NPS Photo","crops":[],"title":"Campground Amphitheater","altText":"an amphitheater with benches, projection counter, and a roofed stage","caption":"In the summer, evening programs may be offered at the amphitheater.","url":"https://www.nps.gov/common/uploads/structured_data/4F892D14-9410-72FF-93F89B1D16670556.jpg"},{"credit":"NPS Photo","crops":[],"title":"Tents at the Campground","altText":"three tents on a hill of black lava rocks with a dark hill covered with trees in the distance","caption":"The Lava Flow Campground offers 42 sites nestled among the black lava rocks between the visitor center and North Crater.","url":"https://www.nps.gov/common/uploads/structured_data/EA46DDB7-A9CE-A885-4112053EC6E52240.jpg"},{"credit":"NPS Photo / Sheena Harper","crops":[],"title":"RV Camping at Lava Flow Campground","altText":"an RV parked in a pull through campsite among sagebrush, a second RV is at the neighboring site","caption":"Some sites offer pull-through parking for trailers and RVs.","url":"https://www.nps.gov/common/uploads/structured_data/EAAF7CC5-B125-0EE5-BAA6ADD7CA559D8B.jpg"},{"credit":"NPS Photo / Lauren Reid","crops":[],"title":"Site 25 with Monoliths","altText":"campsite with picnic table and grill against a dark rocky landscape and cinder cones","caption":"Campsites offer stark views of the unique volcanic landscape.","url":"https://www.nps.gov/common/uploads/structured_data/4F45C368-CDA2-9E63-6EF776AF9C52FF6B.jpg"},{"credit":"NPS Photo","crops":[],"title":"Bird's Eye View of the Lava Flow Campground","altText":"trailers, RVs, and other vehicles parked at different sites at a small campground among lava rocks","caption":"This campground offers the experience of camping on one of the youngest lava flows in the park.","url":"https://www.nps.gov/common/uploads/structured_data/EB053897-D7C0-8D48-99FC3C17E3E36950.jpg"},{"credit":"NPS Photo / Lauren Reid","crops":[],"title":"Back-in Campsites","altText":"two adjacent campsites with paved parking pads and picnic tables","caption":"Campsites vary in size and may be back-in or pull-through.","url":"https://www.nps.gov/common/uploads/structured_data/4EF8EDA0-FAA0-AD7B-9973E7A2D840CBE5.jpg"}]
+,"weatherOverview":"Weather at Craters of the Moon is characterized by hot summers and cold winters. In February, average snow depth ranges from 26 inches at the north end of the monument to just 2 inches at the south end. Intense summer sun bakes the black lava, generating surface temperatures of 170°F and air temperatures in the 90s. Drying winds are a daily occurrence, especially in the afternoon, and may reach 15 to 30 miles per hour."
+
+,"numberOfSitesReservable":"0"
+
+,"numberOfSitesFirstComeFirstServe":"42"
+
+,"campsites":{
+"totalSites":"42",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"The campground road is paved, and restrooms are wheelchair accessible. The terrain of individual campsites may vary.",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"No wood fires; charcoal fires are permitted in grills.",
+"rvAllowed":"1",
+"rvInfo":"The campground features sites of various sizes, including some with large pull-through parking spaces up to 100'. Request a campground flyer at the visitor center for more detailed information. Due to size limitations, it is not recommended to take RVs and trailers beyond site 15.",
+"rvMaxLength":"0",
+"additionalInfo":"",
+"trailerMaxLength":"0",
+"adaInfo":"Restrooms are wheelchair accessible. Site 34 is labelled as an accessible site and features an electrical outlet for medical use.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"86643A75-55AF-4A7F-ADD1-DE35E379BB7F"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/lewislakecg.htm"
+
+,"name":"Lewis Lake Campground"      
+
+,"parkCode":"yell"
+
+,"description":"Lewis Lake Campground—elevation 7,800 ft (2377 m)—is about eight miles from the South Entrance and a short walk from the southeast shore of Lewis Lake. A boat ramp is located near the campground information and registration area. Canoes, kayaks, and motor boats are allowed on Lewis Lake. Boat permits and an aquatic invasive species inspection performed by park staff are required. This is a reservable campground run by the National Park Service."
+
+,"latitude":
+
+"44.2822056502" 
+
+,"longitude":
+
+"-110.627987282" 
+
+,"latLong":"{lat:44.2822056502, lng:-110.627987282}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"C6C0902A-C5AE-45DF-9C16-B94044E092DE"
+
+,"reservationInfo":"All sites are reservable on Recreation.gov. Eighty percent of sites are reservable six months in advance, while the remaining 20% of sites are available two weeks in advance."
+
+,"reservationUrl":"https://www.recreation.gov/camping/campgrounds/259309"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 10 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Vault Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"No","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"3073447381","description":"","extension":"","type":"Voice"},{"phoneNumber":"3073442014","description":"","extension":"","type":"Fax"},{"phoneNumber":"3073442386","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"YELL_Information@nps.gov"}]}
+,"fees":[{"cost":"20.00","description":"Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"}]
+,"directionsOverview":"Located on the road between the South Entrance and West Thumb."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-10-13","name":"Closed for the season","endDate":"2025-06-14"}],"description":"The campground is typically only open summer and fall. Checkout time is 10 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Lewis Lake Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates-- N 44.2822056, W -110.6279873","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 168","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS / Neal Herbert","crops":[],"title":"Lewis Lake Campground","altText":"A view of Lewis Lake","caption":"A view of Lewis Lake","url":"https://www.nps.gov/common/uploads/structured_data/7F422452-1DD8-B71B-0BDC9AB9FB509B5A.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Lewis Lake Campground","altText":"Log building at campground","caption":"Lewis Lake Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8670AC-1DD8-B71B-0B7DB01885DE0179.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Lewis Lake Campground","altText":"Wooded campsite at Lewis Lake","caption":"Wooded campsite at Lewis Lake","url":"https://www.nps.gov/common/uploads/structured_data/7F498F51-1DD8-B71B-0B7CF34C967A40D3.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Lewis Lake Campground","altText":"Tents and bikes at campsites","caption":"Lewis Lake Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C86769C-1DD8-B71B-0BEDDCFC39E9688B.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"NPS/Renkin","altText":"Vehicle at boat dock","caption":"Lewis Lake Campground has a boat ramp located near the campground information and registration area.","url":"https://www.nps.gov/common/uploads/structured_data/3C8679A0-1DD8-B71B-0BD20FD551FBEAB3.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Lewis Lake Campground","altText":"Tent at campsite","caption":"Lewis Lake Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C867CD3-1DD8-B71B-0BE6EC6F6568B07C.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Lewis Lake Campground","altText":"Tent at campsite","caption":"Lewis Lake Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C867FE8-1DD8-B71B-0B90C59826051C72.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Lewis Lake Campground","altText":"Tent and camp chairs at campsite.","caption":"Lewis Lake Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C868228-1DD8-B71B-0B583FB4E1FBA2EB.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Lewis Lake Campground","altText":"Campsite","caption":"Lewis Lake Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C868574-1DD8-B71B-0B201128B0EFCA1A.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"85"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"85",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Most paths in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"Total length limit is 25 feet (7.6 m).",
+"rvMaxLength":"0",
+"additionalInfo":"",
+"trailerMaxLength":"0",
+"adaInfo":"No accessible campsites. Bathrooms and ranger station are accessible.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"66DFF49B-F1DC-49BB-A3CF-9F007330450D"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/madisoncg.htm"
+
+,"name":"Madison Campground"      
+
+,"parkCode":"yell"
+
+,"description":"Madison Campground—elevation 6,800 feet (2073 m)—sits about 14 miles east from the town of West Yellowstone and 16 miles north of Old Faithful. Nearby, the Gibbon and Firehole rivers join to form the Madison River. In early summer, meadows teem with wildflowers and bison. In September and October, you can often hear bugling elk. Yellowstone National Park Lodges provides reservations for this campground."
+
+,"latitude":
+
+"44.6454215492" 
+
+,"longitude":
+
+"-110.861302682" 
+
+,"latLong":"{lat:44.6454215492, lng:-110.861302682}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"9B47530D-C54D-43CC-9ED2-1615F46C0CC6"
+
+,"reservationInfo":"Yellowstone National Park Lodges provides reservations for in this campground. Call 307-344-7311 (307-344-5395 for TDD service) or select the \"Reservations >\" button to open their online reservation system."
+
+,"reservationUrl":"https://secure.yellowstonenationalparklodges.com/booking/lodging"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 11 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Flush Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"Yes - seasonal","dumpStation":"Yes - seasonal","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"Yes - seasonal","firewoodForSale":"Yes - seasonal","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"307-344-7311","description":"","extension":"","type":"Voice"},{"phoneNumber":"307-344-7456","description":"","extension":"","type":"Fax"},{"phoneNumber":"307-344-5395","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"reserve-ynp@xanterra.com"}]}
+,"fees":[{"cost":"33.00","description":"Rates do not include taxes or utility fees and are subject to change. Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"},{"cost":"10.00","description":"This is the per-person cost for a hiker/bicyclist campsite for one night.","title":"Hiker/bicyclist Nightly Fee"},{"cost":"165.00","description":"Nightly cost for a group campsite with 1–19 people in the party. All rates subject to applicable taxes and fees.","title":"Group (1–19 People)"},{"cost":"250.00","description":"Nightly cost for a group campsite with 20–29 people in the party. All rates subject to applicable taxes and fees.","title":"Group (20–29 People)"},{"cost":"325.00","description":"Nightly cost for a group campsite with 30–39 people in the party. All rates subject to applicable taxes and fees.","title":"Group (30–39 People)"},{"cost":"400.00","description":"Nightly cost for a group campsite with 40–49 people in the party. All rates subject to applicable taxes and fees.","title":"Group (40–49 People)"},{"cost":"475.00","description":"Nightly cost for a group campsite with 50–60 people in the party. All rates subject to applicable taxes and fees.","title":"Group (50–60 People)"}]
+,"directionsOverview":"This campground is reached by the Grand Loop Road and is near the intersection of the road that leads to the West Entrance. It is 14 miles east of the West Entrance and 16 miles north of Old Faithful."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-10-19","name":"Closed","endDate":"2025-05-02"}],"description":"The campground is only open late spring through fall. Checkout time is 11 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Madison Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"N 44 38.725 W 110 51.687","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 165","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS/Renkin","crops":[],"title":"Madison Campground","altText":"Camping sites","caption":"Even on a rainy day, there are many things to do at Madison, including having a meal under a canopy.","url":"https://www.nps.gov/common/uploads/structured_data/3C847178-1DD8-B71B-0BF799119633FE17.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Bench overlooking Firehole River","altText":"Bench near the Firehole River","caption":"Bench overlooking Firehole River","url":"https://www.nps.gov/common/uploads/structured_data/3C8325DF-1DD8-B71B-0B8F04A83C4C7A15.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Madison Campground","altText":"Parked RV","caption":"RV at Madison Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C83270F-1DD8-B71B-0B53E17891D75830.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Tent sites at the Madison Campground","altText":"Tents pitched at campground","caption":"Tent sites at the Madison Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C83286B-1DD8-B71B-0B771B561F970065.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Madison Campground","altText":"Camping site","caption":"Even on a rainy day at Madison Campground there are many things to do nearby including the Madison Information Station.","url":"https://www.nps.gov/common/uploads/structured_data/3C847561-1DD8-B71B-0BD7A824F3CFA21F.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Madison Campground","altText":"Campsites","caption":"Madison Campground is set in a partially woody area.","url":"https://www.nps.gov/common/uploads/structured_data/3C8593E0-1DD8-B71B-0B2E6D7F0A262251.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"278"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"276",
+"group":"3",
+"horse":"0",
+"tentOnly":"117",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Three accessible campsites (reservable), with an extended picnic table and a raised fire grate. The closest accessible shower is at Old Faithful Inn (16 mi. south).",
+"internetInfo":"",
+"cellPhoneInfo":"No cell service available in this area.",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"Call for availability & reservations. Total vehicle length can not exceed 30'. Sites that accommodate RVs are either pull-through or back-in with limited width for slide-outs and MAY NOT BE LEVEL; please plan accordingly.",
+"rvMaxLength":"30",
+"additionalInfo":"Showers not included.",
+"trailerMaxLength":"0",
+"adaInfo":"More information on accessibility at the Madison area can be found at http://www.nps.gov/yell/planyourvisit/madisonaccessibility.htm .",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"5B664E0A-C138-40B1-BAD2-17E27200DFD9"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/mammothhscg.htm"
+
+,"name":"Mammoth Campground"      
+
+,"parkCode":"yell"
+
+,"description":"The only campground in the park open year-round, Mammoth Campground—elevation 6,200 feet (1890 m)—is located five miles south of the park's North Entrance. Scattered juniper and Douglas fir trees provide shade during hot summer months. The campground is close to fishing, hiking, and the Mammoth Hot Springs. Great wildlife viewing opportunities abound with elk and bison occasionally passing through the campground. Sites are reservable early April to mid-October. The campground is run by the NPS."
+
+,"latitude":
+
+"44.97360954829384" 
+
+,"longitude":
+
+"-110.69323158293622" 
+
+,"latLong":"{lat:44.97360954829384, lng:-110.69323158293622}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"3905244C-7C79-430C-8314-00C95426DDA9"
+
+,"reservationInfo":"Part of the campground closes for the winter beginning mid-October. Sites are first-come, first-served from mid-October to late March, and reservation-only from early April to mid-October on Recreation.gov."
+
+,"reservationUrl":"https://www.recreation.gov/camping/campgrounds/247571"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 10 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - year round","toilets":["Flush Toilets - year round"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"Yes - year round","laundry":"No","amphitheater":"Yes - seasonal","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - year round"],"iceAvailableForSale":"No","firewoodForSale":"Yes - seasonal","foodStorageLockers":"Yes - year round"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"3073447381","description":"","extension":"","type":"Voice"},{"phoneNumber":"3073442014","description":"","extension":"","type":"Fax"},{"phoneNumber":"3073442386","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"YELL_Information@nps.gov"}]}
+,"fees":[{"cost":"25.00","description":"Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"}]
+,"directionsOverview":"Located at Mammoth Hot Springs, five miles south of the North Entrance."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2025-01-01","name":"Closed","endDate":"2025-05-23"}],"description":"Mammoth Campground is typically open year-round, though part of the campground is closed mid-October through April. Reservation-only 5/1-10/15. Checkout time is 10 am.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Mammoth Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates N 44 58.4166 W 110.41.59392","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 168","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS / Neal Herbert","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Mammoth Campground","caption":"Mammoth Hot Springs Campground facing north","url":"https://www.nps.gov/common/uploads/structured_data/7ED03A0D-1DD8-B71B-0B74D5DBF507875F.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Camping Sites","caption":"Camping sites at Mammoth Hot Springs Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C83571B-1DD8-B71B-0B88ADBA4AE2C8F3.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Camping sites","caption":"Mammoth Hot Springs Campground view of sites looking north","url":"https://www.nps.gov/common/uploads/structured_data/3C83585E-1DD8-B71B-0B6A989D801C14E8.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Tents pitched at the Mammoth Hot Springs Campground","caption":"Tents pitched at the Mammoth Hot Springs Campground","url":"https://www.nps.gov/common/uploads/structured_data/7ED68744-1DD8-B71B-0BAAC168E848B54D.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Tent pitched at campground","caption":"Tent pitched at Mammoth Hot Springs Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C835B22-1DD8-B71B-0B82A44AE3CDBB41.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Pop-up camper in the Mammoth Hot Springs Campground","caption":"Mammoth Hot Springs Campground can accommodate tents, bikers, hikers, RVs and pop-ups.","url":"https://www.nps.gov/common/uploads/structured_data/7EE733AD-1DD8-B71B-0B2D6E762D92C896.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Winter campsite at Mammoth Hto Springs","caption":"Mammoth Hot Springs Campground is the only campground in the park open year-round.","url":"https://www.nps.gov/common/uploads/structured_data/7EDE8F26-1DD8-B71B-0BCEE77DD273BFB4.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Mammoth Hot Springs Campground","altText":"Road in campground","caption":"The Mammoth Hot Springs Campground is the only campground open year-round.","url":"https://www.nps.gov/common/uploads/structured_data/3C8365B0-1DD8-B71B-0BC2C9468F1012B5.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing. Winter temperatures range from 0—20°F (-20—-5°C) throughout the day, with sub-zero temperatures overnight."
+
+,"numberOfSitesReservable":"85"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"85",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are compacted gravel/dirt with some gradient change. In some cases, boardwalks have been constructed to provide easier access to facilities.",
+"internetInfo":"No Wi-Fi at the campground. Free, public Wi-Fi is available at the Albright Visitor Center.",
+"cellPhoneInfo":"There is a cell phone tower near Mammoth Hot Springs: check with your provider to verify coverage. The number of people in the busy summer months of July and August can overwhelm cellular circuits resulting in an inability to send or receive a call, text, or data.",
+"fireStovePolicy":"Wood and charcoal fires are permitted, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive or email our Visitor Services Office immediately prior to your visit. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"Campground sites that will accommodate a maximum combined length of 40 feet (12.2 m) or more are limited. Some will accommodate up to 75 feet total combined length. Most campsites in Yellowstone will not accommodate oversized units. Sites that accommodate RVs are either pull-through or back-in with limited width for slide-outs. Sites may not be level. During winter (mid-October through April), total vehicle length limit is 30 feet (9.1 m).",
+"rvMaxLength":"0",
+"additionalInfo":"From mid-October through April, the back loop of the campground is closed.",
+"trailerMaxLength":"0",
+"adaInfo":"Five accessible campsites, accessible routes along paved roadway, ramp to amphitheater. Accessible shower facilities available in Gardiner, Montana.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"6B63B182-983C-41D9-82F7-F879170A3517"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/norrishscg.htm"
+
+,"name":"Norris Campground"      
+
+,"parkCode":"yell"
+
+,"description":"CLOSED IN 2024. This campground–elevation 7,500 feet (2,286 m)–is located near a large open meadow, which provides opportunity for wildlife viewing. Bison frequently walk through the campground. Most sites are shaded by lodgepole pine. The Museum of the National Park Ranger is a quick walk from the campground, as are Norris Geyser Basin Museum and Norris Geyser Basin--the hottest and most changeable thermal area in Yellowstone. This is a reservable campground run by the National Park Service."
+
+,"latitude":
+
+"44.737848549" 
+
+,"longitude":
+
+"-110.693615083" 
+
+,"latLong":"{lat:44.737848549, lng:-110.693615083}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"3CC0399D-7FCB-49E8-AFB3-4A93D69462A8"
+
+,"reservationInfo":"Reservations not yet available."
+
+,"reservationUrl":""
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 10 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Flush Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"Yes - seasonal","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"Yes - seasonal","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"3073447381","description":"","extension":"","type":"Voice"},{"phoneNumber":"3073442014","description":"","extension":"","type":"Fax"},{"phoneNumber":"3073442386","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"YELL_Information@nps.gov"}]}
+,"fees":[{"cost":"25.00","description":"Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly fee"}]
+,"directionsOverview":"Located 0.8 miles (1.3 km) north of Norris Junction."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[],"description":"Closed all of 2022.","standardHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"name":"Norris Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates: N 44  44.27088 W 110  41.6169","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 168","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS/Renkin","crops":[],"title":"Norris Campground","altText":"Tent campsite pitched next to nearby stream","caption":"Norris campground site","url":"https://www.nps.gov/common/uploads/structured_data/3C83C553-1DD8-B71B-0B1742A3D3AF1CEF.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Norris Campground","altText":"Small RV parked at a campground","caption":"Norris Campground campsite","url":"https://www.nps.gov/common/uploads/structured_data/3C83C6B8-1DD8-B71B-0B0C3A038052CFD8.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Norris Campground","altText":"Tent pitched at a campground","caption":"Norris Campground campsite","url":"https://www.nps.gov/common/uploads/structured_data/3C83C871-1DD8-B71B-0BB8500D5C8FF8EB.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Norris Campground","altText":"Bison in campground","caption":"Bison are a frequent visitor at the Norris Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C860592-1DD8-B71B-0BEC324FA27ADC9D.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Norris Campground","altText":"Campsite","caption":"Norris Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C860786-1DD8-B71B-0B33B02009B6CF36.jpg"},{"credit":"NPS/Renkin","crops":[],"title":"Norris Campground","altText":"RV at campground","caption":"Norris Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8608A6-1DD8-B71B-0B49A54820E612EC.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"112"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"112",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted",
+"rvAllowed":"1",
+"rvInfo":"Two signed sites accommodate 50 feet (15.2 m) combined vehicle length and five sites accommodate 30 feet (9.1 m) combined vehicle length. Most sites will not accommodate oversized units. Sites either pull-through or back-in with limited width for slide-outs and may not be level.",
+"rvMaxLength":"0",
+"additionalInfo":"",
+"trailerMaxLength":"0",
+"adaInfo":"Two accessible campsites; accessible restroom with flush toilets at campground entrance and accessible vault toilets in campground.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"FB8D1AFA-AD1F-48F1-AFF4-B649857B6D61"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/pebblecreekcg.htm"
+
+,"name":"Pebble Creek Campground"      
+
+,"parkCode":"yell"
+
+,"description":"CLOSED IN 2024 for flood recovery work. Pebble Creek Campground—elevation 6,900 feet (2103 m)—lies against the dramatic backdrop of the Absaroka Mountains near the park's Northeast Entrance and offers a more isolated camping experience. Day hiking opportunities are available nearby. Soda Butte Creek offers fishing opportunities and there are outstanding wildlife viewing opportunities throughout Lamar Valley. This is a reservable campground run by the National Park Service."
+
+,"latitude":
+
+"44.916981349" 
+
+,"longitude":
+
+"-110.113808383" 
+
+,"latLong":"{lat:44.916981349, lng:-110.113808383}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"02F61986-3784-4E45-85EE-DD6EF861F711"
+
+,"reservationInfo":"All sites are reservable on Recreation.gov"
+
+,"reservationUrl":"https://www.recreation.gov/camping/campgrounds/259307"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 10 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Vault Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"No","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"3073447381","description":"","extension":"","type":"Voice"},{"phoneNumber":"3073442014","description":"","extension":"","type":"Fax"},{"phoneNumber":"3073442386","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"YELL_Information@nps.gov"}]}
+,"fees":[{"cost":"20.00","description":"Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"}]
+,"directionsOverview":"Located on the road between Tower Junction and the Northeast Entrance."
+
+,"directionsUrl":"http://www.nps.gov/yell/planyourvisit/campgrounds.htm"
+
+,"operatingHours":[{"exceptions":[],"description":"The campground is typically only open during summer. Checkout time is 10 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"name":"Pebble Creek Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates -- N 44  55.01886 W 110  6.82848","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 168","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS/ Jacob W. Frank","crops":[],"title":"Pebble Creek Campground","altText":"The entrance to the Pebble Creek Campground","caption":"The Pebble Creek Campground offers partially shaded sites on the edge of the Absaroka Mountains.","url":"https://www.nps.gov/common/uploads/structured_data/F44F25C1-1DD8-B71B-0B178676FAE6942E.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Pebble Creek Campground","altText":"Tent and camper at campsite.","caption":"Pebble Creek campgrund","url":"https://www.nps.gov/common/uploads/structured_data/3C864087-1DD8-B71B-0B0A543810653DF4.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Pebble Creek Campground","altText":"RV at campsite","caption":"Pebble Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8642C2-1DD8-B71B-0B0107B52E3146B8.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Pebble Creek Campground","altText":"Camping trailer at campsite","caption":"Pebble Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C8643D7-1DD8-B71B-0B394152DA329B9B.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Pebble Creek Campground","altText":"Campsite with stream","caption":"Pebble Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C863DFE-1DD8-B71B-0BE1A996EF3A5AFD.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Pebble Creek Campground","altText":"Campsites at the Pebble Creek Campground","caption":"Campsites at the Pebble Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F9A4A9D-1DD8-B71B-0B67FCB6F5CE4759.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Pebble Creek Campground","altText":"Bear proof food storage at the Pebble Creek Campground","caption":"Bear proof food storage at the Pebble Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/7FA0EF73-1DD8-B71B-0B0974C17E571EBD.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Pebble Creek Campground","altText":"Food storage box, picnic table, tent at campsite.","caption":"Pebble Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C864814-1DD8-B71B-0BD24EEB5B5E105B.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"27"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"27",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"The road through the campground is paved. Paths in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"Some long pull-throughs.",
+"rvMaxLength":"0",
+"additionalInfo":"",
+"trailerMaxLength":"0",
+"adaInfo":"There is one accessible campsite at the Pebble Creek Campground.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"827FE6FC-C9A3-4543-93A5-F3150E009DDF"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/sloughcreekcg.htm"
+
+,"name":"Slough Creek Campground"      
+
+,"parkCode":"yell"
+
+,"description":"Near some of the best wildlife watching opportunities in the park. Located at the end of a two-mile dirt road, this campground is best suited for tents and small RVs. There are plenty of hiking and fishing opportunities in the area, including the Slough Creek Trail which begins nearby. Nighttime offers a quiet, unimpeded view of the stars and the possibility of hearing wolves howl. Elevation: 6,250 ft (1905 m). This is a reservable campground run by the National Park Service."
+
+,"latitude":
+
+"44.9488466488" 
+
+,"longitude":
+
+"-110.306879183" 
+
+,"latLong":"{lat:44.9488466488, lng:-110.306879183}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"1DCAF809-9199-468C-993A-4084E9BF444C"
+
+,"reservationInfo":"All sites are reservable on Recreation.gov."
+
+,"reservationUrl":"https://www.recreation.gov/camping/campgrounds/259310"
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 10 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Vault Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"No","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"3073447381","description":"","extension":"","type":"Voice"},{"phoneNumber":"3073442014","description":"","extension":"","type":"Fax"},{"phoneNumber":"3073442386","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"YELL_Information@nps.gov"}]}
+,"fees":[{"cost":"20.00","description":"Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"}]
+,"directionsOverview":"Located 5.5 miles (8.8 km) east of Tower-Roosevelt Junction, 2 miles down a dirt road."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-10-13","name":"Closed","endDate":"2025-06-14"}],"description":"The campground is typically only open during summer and early fall. Checkout time is 10 am. See exceptions for exact dates of operation.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Slough Creek Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates -- N: 44.9488466 W:-110.3068792","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 168","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS / Jacob W. Frank","crops":[],"title":"Slough Creek Campground","altText":"Campsites in the Slough Creek Campground","caption":"Campsites in the Slough Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/F47E6DBA-1DD8-B71B-0BD4FA0BA8601436.jpg"},{"credit":"NPS","crops":[],"title":"Slough Creek Campground","altText":"Visitors and tent at campsite.","caption":"Slough Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C864BDC-1DD8-B71B-0BA1FB3EF631674C.jpg"},{"credit":"NPS","crops":[],"title":"Slough Creek Campground","altText":"Tent and camp chair at campsite","caption":"Slough Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C864ACB-1DD8-B71B-0BAE31AB6D63B610.jpg"},{"credit":"NPS","crops":[],"title":"Slough Creek Campground","altText":"Campsite near stream.","caption":"Slough Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C864D5D-1DD8-B71B-0B2BB53D3185813A.jpg"},{"credit":"NPS","crops":[],"title":"Slough Creek Campground","altText":"Truck with camping trailer, RV at campsite","caption":"Slough Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C864F4E-1DD8-B71B-0BD2C3EB6263872A.jpg"},{"credit":"NPS / Jacob W. Frank","crops":[],"title":"Slough Creek Campground","altText":"Campsites in the Slough Creek Campground","caption":"Campsites in the Slough Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/F484B1CE-1DD8-B71B-0B7752362B14428C.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"16"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"16",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths/roads in the campground area are compacted gravel/dirt with limited gradient change.",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"14 sites at 30 feet (9.1 m). Sites may not be level.",
+"rvMaxLength":"0",
+"additionalInfo":"• Slough Creek Campground is generator-free. • Each campsite has a picnic table and fire pit with grate. • Food storage boxes measuring 48\" x 22\" x 22\" are available for shared use. • 14 sites can accommodate RVs with maximum length of 30' (walk through first to assess sites).",
+"trailerMaxLength":"0",
+"adaInfo":"There is one accessible campsite at Slough Creek Campground.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Unpaved Roads - All vehicles OK in good weather"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"5541512A-EAA8-472F-9B88-2435CCD0087F"
+
+,"url":"https://www.nps.gov/ciro/planyourvisit/smoky-mountain-campground.htm"
+
+,"name":"Smoky Mountain Campground"      
+
+,"parkCode":"ciro"
+
+,"description":"There are 38 campsites available, 9 of which are pull-through. Sites 11 and 24 are designated ADA accessible. A separate loop with 6 sites accommodates equestrian campers. - water service May-September - 30 amp electrical hook-ups - fire-ring/ground grill - picnic table - partial shade There are flush toilets and showers open May-September and a vault toilet open year-round at the equestrian trail head. An RV dump station is provided near the campground entrance."
+
+,"latitude":
+
+"42.0755503041" 
+
+,"longitude":
+
+"-113.651634013" 
+
+,"latLong":"{lat:42.0755503041, lng:-113.651634013}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"3532D29F-E735-4968-B4F0-D7F41F97B96B"
+
+,"reservationInfo":"Campsites can be reserved during the main season, but are first-come-first-served during the off season. Length of stay is limited to 15 days in any 30 day period."
+
+,"reservationUrl":"https://www.reserveamerica.com/explore/castle-rocks-state-park/ID/315045/overview"
+
+,"regulationsurl":"https://parksandrecreation.idaho.gov/camping/"
+
+,"regulationsOverview":"Campground regulations conform to the rules of the Idaho Department of Parks and Recreation."
+
+,"amenities":{"trashRecyclingCollection":"No","toilets":["Flush Toilets - seasonal","Vault Toilets - year round"],"internetConnectivity":"No","showers":["Hot - Seasonal"],"cellPhoneReception":"Yes - year round","laundry":"No","amphitheater":"No","dumpStation":"Yes - year round","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"No"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"208–824–5901","description":"","extension":"","type":"Voice"}],"emailAddresses":[{"description":"","emailAddress":"ciro_superintendent@nps.gov"}]}
+,"fees":[{"cost":"28.00","description":"An additional $10 fee is applied for advanced reservations. This fee does not apply to walk-ins. \n\nWater typically available May1st through September 30th depending on weather.\n\nEach vehicle must pay an entrance fee of $7 or have an Annual Pass or Passport.","title":"Idaho Resident Campsite Fee"},{"cost":"7.00","description":"All vehicles are required to pay a motor vehicle entrance fee or have an Annual Pass or Passport.","title":"Motor Vehicle Entrance Fee"},{"cost":"10.00","description":"This fee is required to make campsite reservations in advance and does not apply to walk-ins.","title":"Campsite Reservation Fee"},{"cost":"3.00","description":"fee is per shower","title":"Shower Fee"},{"cost":"31.00","description":"An additional $10 fee is applied for advanced reservations. This fee does not apply to walk-ins. \n\nWater typically available May1st through September 30th depending on weather.\n\nEach vehicle must pay an entrance fee of $7 or have an Annual Pass or Passport.","title":"Non-Idaho Resident Campsite Fee"}]
+,"directionsOverview":""
+
+,"directionsUrl":""
+
+,"operatingHours":[{"exceptions":[],"description":"Quiet hours are between 10:00 pm and 7:00 am.\n\nThere are flush toilets and showers open May-September and a vault toilet open year-round at the equestrian trail head.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Smoky Mountain Campground"}]
+,"addresses":[{"postalCode":"83312","city":"Almo","stateCode":"ID","countryCode":"US","provinceTerritoryCode":"","line1":"City of Rocks National Reserve Visitor Center","type":"Physical","line3":"","line2":"3035 Elba-Almo Road"},{"postalCode":"83312","city":"Almo","stateCode":"ID","countryCode":"US","provinceTerritoryCode":"","line1":"City of Rocks National Reserve/Castle Rocks State Park","type":"Mailing","line3":"","line2":"PO Box 169"}]
+,"images":[{"credit":"NPS Photo","crops":[],"title":"Smoky Mountain Campsite","altText":"A family is gathered around a blazing campfire in the evening.","caption":"","url":"https://www.nps.gov/common/uploads/structured_data/26320A60-E99B-7724-E0CC9DC5E38F1813.jpg"},{"credit":"","crops":[],"title":"Smoky Mountain Campsite","altText":"Orange tents, fire ring, and picnic table, in a campsite at Smoky Mountain Campground.","caption":"","url":"https://www.nps.gov/common/uploads/structured_data/D8D409B2-C801-C0B1-39197B838F66C87E.jpg"},{"credit":"","crops":[],"title":"Smoky Mountain Campsite","altText":"A truck with an Airstream trailer on a paved pad with mountains in the background.","caption":"","url":"https://www.nps.gov/common/uploads/structured_data/D8F312CC-EB01-CDA4-E8E4D168DC026EFB.jpg"}]
+,"weatherOverview":"Summers are generally dry with temperatures from lows in the 40's to highs in the 80's, but prepare for extremes. Afternoon thunderstorms are common in the summer months. Winter weather includes lows in the upper teens and daytime highs in the low 40's. Snow can accumulate up to 12-16 inches at times in the Almo Valley and over 24 inches in the Reserve. Typically the valley snow melts to within a few inches, but can drift many feet in the higher elevations."
+
+,"numberOfSitesReservable":"38"
+
+,"numberOfSitesFirstComeFirstServe":"38"
+
+,"campsites":{
+"totalSites":"38",
+"group":"0",
+"horse":"6",
+"tentOnly":"0",
+"electricalHookups":"38",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Smoky Mountain campground is paved and flat, although some areas may have a steeper incline.",
+"internetInfo":"The Visitor Center offers free Wi-Fi 24/7.",
+"cellPhoneInfo":"AT&T has good cell coverage in the town of Almo, Verizon is limited to certain areas.",
+"fireStovePolicy":"Campfires in designated metal fire rings only.",
+"rvAllowed":"1",
+"rvInfo":"Each campsite has a paved parking pad. There are both pull through and back in sites.",
+"rvMaxLength":"0",
+"additionalInfo":"Almo private businesses include food, gas, lodging, ice, firewood, and camping supplies.",
+"trailerMaxLength":"0",
+"adaInfo":"Campsites 11 and 24 are designated ADA accessible.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"6CB8E14E-8C58-414A-A764-CB117EB34B8C"
+
+,"url":"https://www.nps.gov/yell/planyourvisit/towerfallcg.htm"
+
+,"name":"Tower Fall Campground"      
+
+,"parkCode":"yell"
+
+,"description":"CLOSED IN 2024. Tower Fall Campground—elevation 6,600 feet (2012 m)—is located on the north side of the steep, winding, road to Dunraven Pass. The campground is near the Tower General Store and Tower Fall. The Lamar Valley, with spectacular wildlife viewing opportunities, is located nearby as are several hiking trails. Roosevelt Lodge, a short drive from the campground, offers dining and horseback riding. This is a reservable campground run by the National Park Service."
+
+,"latitude":
+
+"44.8895498483" 
+
+,"longitude":
+
+"-110.389475883" 
+
+,"latLong":"{lat:44.8895498483, lng:-110.389475883}"
+
+,"audioDescription":""
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"13E1D39F-A668-49AA-8F56-F75D1550866D"
+
+,"reservationInfo":"Reservations not yet available."
+
+,"reservationUrl":""
+
+,"regulationsurl":"https://www.nps.gov/yell/planyourvisit/rules.htm"
+
+,"regulationsOverview":"Overnight camping or parking is only allowed in designated campgrounds or campsites. Campsite occupancy is limited to six people per site. Checkout time is 10 am. Camping is limited to 14 days from July 1 through Labor Day, and 30 days for the rest of the year. There is no stay limit at the Fishing Bridge RV Park. Unless posted otherwise, wood and charcoal fires are permitted in all campgrounds except the Fishing Bridge RV Park. Propane grills and stoves are usually unaffected by fire restrictions. All odorous items that may attract bears, including food, cooking gear, toiletries, and garbage, must be kept secured when not in use. Bear-proof storage boxes are available at many campsites. Where permitted, generators may only be operated from 8 am to 8 pm (60 dB limit). Generators are not permitted at Indian Creek, Lewis Lake, Pebble Creek, Slough Creek, or Tower Fall."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Vault Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"Yes - seasonal","dumpStation":"No","campStore":"Yes - seasonal","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"3073447381","description":"","extension":"","type":"Voice"},{"phoneNumber":"3073442014","description":"","extension":"","type":"Fax"},{"phoneNumber":"3073442386","description":"","extension":"","type":"TTY"}],"emailAddresses":[{"description":"","emailAddress":"YELL_Information@nps.gov"}]}
+,"fees":[{"cost":"20.00","description":"Interagency Access and Senior Pass holders receive a 50% discount.","title":"Nightly Fee"}]
+,"directionsOverview":"This campground is located on the road between Tower Fall and Canyon--north of Dunraven Pass and 3.5 miles (5.6 km) south of Tower-Roosevelt Junction."
+
+,"directionsUrl":"https://www.nps.gov/yell/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[],"description":"Closed until further notice.","standardHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"name":"Tower Fall Campground"}]
+,"addresses":[{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"GPS Coordinates N: 44 53.373 W 110 23.36856","type":"Physical","line3":"","line2":""},{"postalCode":"82190","city":"Yellowstone National Park","stateCode":"WY","countryCode":"US","provinceTerritoryCode":"","line1":"PO Box 168","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS / Neal Herbert","crops":[],"title":"Tower Fall Campground","altText":"A view of the Tower Fall Campground","caption":"A view of the Tower Fall Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F638462-1DD8-B71B-0BEC49440E642DE6.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Tower Fall Campground","altText":"Campsite at Tower Fall Campground","caption":"Campsite at Tower Fall Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F681F5F-1DD8-B71B-0B820BEC8D489C5C.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Tower Fall Campground","altText":"RVs at the Tower Fall Campground","caption":"RVs at the Tower Fall Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F6D451D-1DD8-B71B-0B8D545F532561C5.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Tower Fall Campground","altText":"Campsite with bear proof food storage at Tower Fall Campground","caption":"Campsite with bear proof food storage at Tower Fall Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F7584C2-1DD8-B71B-0B9A916A04829D3B.jpg"},{"credit":"NPS / Neal Herbert","crops":[],"title":"Tower Fall Campground","altText":"Setting up camp in the Tower Fall Campground","caption":"Setting up camp in the Tower Fall Campground","url":"https://www.nps.gov/common/uploads/structured_data/7F7C80DC-1DD8-B71B-0B951F4B4CE71050.jpg"}]
+,"weatherOverview":"Yellowstone's weather can vary greatly within a day and throughout the park. Snow can fall every month of the year. Summer highs reach 70–80°F (25–30°C) during the day, but nights can be cool (and it may freeze at higher elevations). During spring and fall, daytime highs range from 30–60°F (0–20°C), with overnight lows below freezing."
+
+,"numberOfSitesReservable":"31"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"31",
+"group":"0",
+"horse":"0",
+"tentOnly":"0",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Paths in the campground area are compacted gravel/dirt with some steep grades.",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"Wood and charcoal fires are permitted in this campground, though special fire restrictions are occasionally put in place when the danger of wildland fires is great. If you plan to light a fire in the park, please ask about current fire restrictions at the entrance station when you arrive. Propane grills and stoves are normally not restricted.",
+"rvAllowed":"1",
+"rvInfo":"All sites at 30' (9.1 m) or less. Sites may not be level. Loop has hairpin curve.",
+"rvMaxLength":"0",
+"additionalInfo":"",
+"trailerMaxLength":"0",
+"adaInfo":"No accessible campsites or facilities.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+
+]
+}

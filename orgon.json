@@ -1,0 +1,286 @@
+ 
+{
+
+"total":"3",
+"limit":"500",
+"start":"0",  
+"data":[
+
+{
+
+"id":"CE2A760B-8A8F-4083-9E6F-3DB38B313145"
+
+,"url":"https://www.nps.gov/orca/planyourvisit/campgrounds.htm"
+
+,"name":"Cave Creek Campground"      
+
+,"parkCode":"orca"
+
+,"description":"Sleep under the boughs of an old growth forest beside Cave Creek. This campground is located 15 miles up Highway 46 from Cave Junction and just four miles from the cave entrance. The campground has fire rings, water and vault toilets. The spaces are too small for large RVs or trailers and no pull through sites. The campground offers 17 sites available on a first-come, first-serve basis. Maximum vehicle length: 20 feet."
+
+,"latitude":
+
+"42.1139211881" 
+
+,"longitude":
+
+"-123.429613284" 
+
+,"latLong":"{lat:42.1139211881, lng:-123.429613284}"
+
+,"audioDescription":"Sleep under the boughs of an old growth forest beside Cave Creek. This campground is located 15 miles up Highway 46 from Cave Junction and just four miles from the cave entrance. The campground has fire rings, water and vault toilets. The spaces are too small for large RVs or trailers and no pull through sites. The campground offers 17 sites available on a first-come, first-serve basis. Maximum vehicle length: 20 feet."
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"45B3E8D6-3132-4527-B8BD-1271E5A30C24"
+
+,"reservationInfo":"Nestled in the lush forests of the Illinois Valley, the 17 sites in this limited developed campground are suitable for tents. Five of these sites can accommodate an RV up to 24' with no hookups. A tour through Oregon Caves is just a short drive from the campground, and the Cave Creek Trail provides hiking access to the rest of Oregon Caves National Monument and Preserve."
+
+,"reservationUrl":""
+
+,"regulationsurl":""
+
+,"regulationsOverview":"Please park on pavement only and keep your campsite clean to avoid encounters with wildlife. All pets must be kept on a leash and pets are not allowed on trails."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Vault Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"No","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"No"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"5415922100","description":"","extension":"","type":"Voice"}],"emailAddresses":[{"description":"Oregon Caves general information email address","emailAddress":"orca_information@nps.gov"}]}
+,"fees":[{"cost":"10.00","description":"Sites include tent space, grills, tables and a small paved parking spot. Pit toilets and water are located throughout the campground. 5 of the sites can accommodate RV's up to 20'. There are no individual hookups or electricity available. Please only park on pavement, and keep your campsite clean to avoid bears. The camping fee is per night and limited to 14 days.","title":"Campsite Fee"}]
+,"directionsOverview":"From Grants Pass, OR, travel south 29.5 miles on US Highway 199 (Redwood Highway) to Cave Junction, OR. Turn left (east) onto Caves Highway (Highway 46), and continue for approximately 16 miles to the right-hand (south) turn to the Cave Creek Campground."
+
+,"directionsUrl":""
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"startDate":"2024-05-24","name":"Winter (closed)","endDate":"2024-09-30"}],"description":"17 camp sites are offered at Cave Creek Campground. No RV hookups. Vault Toilets. Sites are not suited for large RVs. Ideal for tent campers. Campground open from Memorial Day to September 30 or first rain of season. Visit https://www.nps.gov/orca/planyourvisit/campgrounds.htm for more information.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Cave Creek Campground"}]
+,"addresses":[{"postalCode":"97523","city":"Cave Junction","stateCode":"OR","countryCode":"US","provinceTerritoryCode":"","line1":"Oregon Caves NM and Preserve","type":"Physical","line3":"","line2":"19000 Caves Hwy"},{"postalCode":"97523","city":"Cave Junction","stateCode":"OR","countryCode":"US","provinceTerritoryCode":"","line1":"Oregon Caves NM and Preserve","type":"Mailing","line3":"","line2":"19000 Caves Hwy"}]
+,"images":[{"credit":"NPS photo/M Lang","crops":[],"title":"Family enjoying Cave Creek Campground","altText":"Family sitting around a campfire at Cave Creek Campground","caption":"Family sitting around a campfire at Cave Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/CAD2D1A7-09C6-7F1B-C8A2D91D6699D14D.jpg"},{"credit":"NPS/Christopher Willis","crops":[],"title":"Cave Creek Campgound Camp Site","altText":"Campsite nestled amongst the trees at Cave Creek Campground","caption":"Cave Creek Campgound Campsite","url":"https://www.nps.gov/common/uploads/structured_data/3C850D5E-1DD8-B71B-0B78B9F07ED8574C.jpg"},{"credit":"NPS/Christopher Willis","crops":[],"title":"Campground Day Use Area","altText":"Cave Creek Campgound Day Use Area","caption":"Cave Creek Campgound Day Use Area","url":"https://www.nps.gov/common/uploads/structured_data/3C850BF1-1DD8-B71B-0B831DC5C6A65103.jpg"}]
+,"weatherOverview":"For current weather conditions visit https://forecast.weather.gov/MapClick.php?lon=-123.42973618633941&lat=42.11394690801612#.Vqe99vkrKUk"
+
+,"numberOfSitesReservable":"0"
+
+,"numberOfSitesFirstComeFirstServe":"17"
+
+,"campsites":{
+"totalSites":"17",
+"group":"0",
+"horse":"0",
+"tentOnly":"17",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"None",
+"internetInfo":"",
+"cellPhoneInfo":"",
+"fireStovePolicy":"Follows regulations set by Oregon Department of Forestry",
+"rvAllowed":"1",
+"rvInfo":"No RV hookups. Trailers not advised.",
+"rvMaxLength":"20",
+"additionalInfo":"",
+"trailerMaxLength":"15",
+"adaInfo":"Not ADA Accessible.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"71D71180-EFB3-4888-8B2C-5474107CC139"
+
+,"url":"https://www.nps.gov/crla/planyourvisit/lost_creek.htm"
+
+,"name":"Lost Creek Campground"      
+
+,"parkCode":"crla"
+
+,"description":"CLOSED ALL YEAR 2024 Lost Creek Campground is managed by the National Park Service. It usually opens in early July and closes in mid-October, depending on weather and other factors. It is for tent campers only--NO RVs, buses, trailers, or vans and truck with toilets. Registration is self-serve on the day of arrival. No advance registration is available. The campground fills by mid-afternoon. The only means of knowing site availability is upon arrival at the campground. The elevation 6,000 ft. (1,829 m)."
+
+,"latitude":
+
+"42.8797493937" 
+
+,"longitude":
+
+"-122.038711217" 
+
+,"latLong":"{lat:42.8797493937, lng:-122.038711217}"
+
+,"audioDescription":"NOTE: This campground does not have running water. You must bring enough water for everyone in your party. Water is available at Steel Visitor Center or Mazama Village. Drive three miles south along Pinnacles Road from East Rim Drive. Turn right after the brown metal directional sign announcing the campground. You have arrived at the entrance. Welcoming you is a brown wood sign with the words Lost Creek Campground carved into the panel and painted white. It hangs from a beam leveraged by five round, multi-sized posts that create the sign’s base. Beneath towering lodge pole pines and Shasta Red Firs are grassy meadows with 16 tent sites distributed in an inner and outer circle. An Information bulletin board and pay kiosk is straight ahead. The bulletin board contains information on how to select a site, pay, rules, regulations and any current concerns regarding the campground. From the kiosk, go left towards site #1 and continue as the road winds around to site #4. If your go right, you will by-pass sites 1 through 4, and turn right in front of site 5. Lost Creek runs behind sites 2 thru 5. Wildflowers highlight the area during summer and fall colors resume their brilliance as the weather cools. Between sites 4 and 5 is Greyback Road, the former East Rim Drive. There is a locked metal gate swung across the road to prohibit vehicle traffic. This road is now considered a trail for hikers, bicyclists, and pet walking. Across from sites 4 and 5 is a native stone and wood structure. This restroom is closed due to water rights legislation which does not give the National Park Service senior rights to use of the water in Lost Creek and its reservoir. Instead, there are portable toilets, several which are accessible, stationed alongside the building. Beyond the closed restroom, the road continues in a circular fashion with access to sites 6 to 16. The road and all campsite parking are covered with small crushed gravel-like rock. Tent areas are mostly dirt and natural debris with some crushed rock. All sites are generally level with room to park two vehicles. Each site has one picnic table; bases are white and formed from concrete; tops are made of heavy planks of wood. Most are in the sun with a possibility of shade at times throughout the day. Each site also has one bear-proof, metal food storage locker. The park is home to many animals, including black bears. All of your food, garbage, cooking equipment, storage containers (e.g. ice chests), and toiletries (soaps, toothpaste, etc.) must be kept in your vehicle or in the bear-resistant locker provided at your campsite. There are tree stumps and logs throughout the meadow and around campsites. Many dead trees stand along and beyond the creek. There are trash and recycling containers in several locations in the campground. The creek is closed to fishing to save and protect native bull trout. Since the campground is alongside Pinnacles Road it is not quiet during the day due to cars traveling to and from Pinnacles Overlook. After sunset when vehicle traffic comes to a halt and sunshine shifts to a starlit sky, and again when quiet hours begin at 10 pm, giving way to the sounds of Lost Creek and the wind, that the campground is quiet."
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":"669C5964-4738-44B0-A5E6-9E279420F252"
+
+,"reservationInfo":"Lost Creek Campground has 16 sites for tents only. Registration is self-serve on the day of arrival. No advance registration is available. Payment can be made by check or exact cash. Credit cards are not accepted. Senior and Access pass holders are eligible for a 50% discount. The only means of knowing site availability is upon arrival at the campground. The campground typically fills up, so arrive early to secure a site."
+
+,"reservationUrl":""
+
+,"regulationsurl":"https://www.nps.gov/crla/planyourvisit/lost_creek.htm"
+
+,"regulationsOverview":"CLOSED to RVs Lost Creek Campground is closed to recreational vehicles, buses, and vehicles with trailers. Recreational vehicles are considered to be any conveyance specifically designed for camping and equipped with self-contained toilet facilities. HOURS You can check in 24 hours a day. Check-out time is 12 pm. Generators are prohibited. Campground quiet hours are 10 pm to 7 am. MAXIMUM OCCUPANCY The maximum number of people per campsite is 8. The maximum number of vehicles per campsite is 2. Camping in the park is limited to 30 days per calendar year, with no more than 14 consecutive days in any campground. FOOD STORAGE When not in use, all of your food, garbage, cooking equipment, storage containers (e.g. ice chests), and toiletries (soaps, toothpaste, etc.) must be kept in your vehicle or in the bear-resistant locker provided at your campsite. GENERATORS ARE PROHIBITED Plan to camp at Mazama Campround where electrical hookups are available or if you must use a generator."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Portable Toilets - seasonal"],"internetConnectivity":"No","showers":["None"],"cellPhoneReception":"No","laundry":"No","amphitheater":"No","dumpStation":"No","campStore":"No","staffOrVolunteerHostOnsite":"No","potableWater":["No water"],"iceAvailableForSale":"No","firewoodForSale":"No","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"541-594-3000","description":"","extension":"","type":"Voice"},{"phoneNumber":"541-594-3010","description":"","extension":"","type":"Fax"}],"emailAddresses":[{"description":"","emailAddress":"crla_information_requests@nps.gov"}]}
+,"fees":[{"cost":"5.00","description":"All sites are tent-only and are $5 per night. Payment is due the day of arrival when you self-register for a site. Payment is by cash (exact change only) or a check made out to the National Park Service. Credit cards are not accepted. Senior Pass and Access Pass holders are entitled to a 50% discount. Maximum number of people per campsite is 8 with and a maximum of 2 vehicles. Lost Creek Campground is limited to 30 days each calendar year with no more than 14 consecutive days in any park campground.","title":"Tent Only"}]
+,"directionsOverview":"CLOSED ALL YEAR 2024 Lost Creek Campground is located three miles off of East Rim Drive on Pinnacles Road. From park headquarters travel 9 miles on East Rim Drive, turn right onto Pinnacles Road (near Phantom Ship Overlook). Drive 3 miles on Pinnacles Road. Lost Creek Campground is on the right."
+
+,"directionsUrl":"http://www.nps.gov/crla/planyourvisit/directions.htm"
+
+,"operatingHours":[{"exceptions":[],"description":"CLOSED ALL YEAR 2024 Lost Creek Campground is located on Pinnacles Road, about 12 miles from park headquarters. The campground opens once snow and debris are removed East Rim Drive and Pinnacles Road, and portable toilets are delivered. The opening date is generally July 1. Closing dates shift depending on weather forecasts and other conditions (i.e. hazard or downed trees, road closures) which may require an earlier closing than the established date.","standardHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"name":"Lost Creek Campground, elevation 6,000 feet (1,829 meters)"}]
+,"addresses":[{"postalCode":"97604","city":"Crater Lake","stateCode":"OR","countryCode":"US","provinceTerritoryCode":"","line1":"Crater Lake National Park","type":"Physical","line3":"","line2":"no physical address is available"},{"postalCode":"97604","city":"Crater Lake","stateCode":"OR","countryCode":"US","provinceTerritoryCode":"","line1":"Crater Lake National Park","type":"Mailing","line3":"","line2":"PO Box 7"}]
+,"images":[{"credit":"NPS photo","crops":[],"title":"Entrance Sign to Lost Creek Campground","altText":"four 8-inch, round, brown, wood posts with a cross beam holding the entrance sign to Lost Creek Camp","caption":"Entrance Sign to Lost Creek Campground","url":"https://www.nps.gov/common/uploads/structured_data/CA96D59C-9A9D-2E8D-BEE6A30A423904AD.jpg"},{"credit":"NPS photo/Mimi Gorman","crops":[],"title":"Lost Creek Campground Site","altText":"Campsite with picnic table and bear proof storage container","caption":"Lost Creek Campsites are settled in a grassy meadow surrounded by conifers.","url":"https://www.nps.gov/common/uploads/structured_data/D6B2B29F-9737-80C0-B8AB1224042F73A2.jpg"},{"credit":"NPS photo/Mimi Gorman","crops":[],"title":"Lost Creek Campsite #14","altText":"Campsite with picnic table and bear proof storage container, parking area, and site # post","caption":"Campsite 14 is in the inner circle.","url":"https://www.nps.gov/common/uploads/structured_data/D70AA0DA-B039-F2C9-2539A162B9FE66B3.jpg"},{"credit":"NPS photo/Mimi Gorman","crops":[],"title":"Lost Creek Campsite #4","altText":"Campsite with picnic table and bear proof storage container","caption":"A campsite nestled next to Lost Creek and the Greyback Trail.","url":"https://www.nps.gov/common/uploads/structured_data/D7D9E084-F27A-44FD-1B3941D493927CB7.jpg"}]
+,"weatherOverview":"October through June, most of the park may be snow covered. Annual snowfall averages 42 feet (13 meters). In early spring, it is typical to have ten to fifteen feet (4 meters) of snow on the ground. July, August, and September are drier and warmer. A typical daytime high temperature during these three months is around 67°F (19°C), but can range from 40°F to 80°F or more (4°C to 27°C). Temperatures cool off rapidly in the evening, with a typical nighttime low around 40°F (4°C)."
+
+,"numberOfSitesReservable":"0"
+
+,"numberOfSitesFirstComeFirstServe":"16"
+
+,"campsites":{
+"totalSites":"16",
+"group":"0",
+"horse":"0",
+"tentOnly":"16",
+"electricalHookups":"0",
+"rvOnly":"0",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"Some of the portable toilets at Lost Creek are accessible but no campsite is designated accessible or specifically known to be manageable by wheelchair or other mobility assists. Picnic tables are not designed to accommodate a wheelchair. There are accessible sites designated at the Mazama Campground.",
+"internetInfo":"During summer season operations, wifi may be available at Annie Springs Gift Shop in Mazama Village.",
+"cellPhoneInfo":"There is no cell tower or guaranteed cell phone service in the park. However, around Rim Village and other locations, intermittent cell service may be available.",
+"fireStovePolicy":"Wood campfires are not allowed. Gas stoves and self-contained charcoal grills are permitted.",
+"rvAllowed":"0",
+"rvInfo":"RVs and trailers are not permitted.",
+"rvMaxLength":"0",
+"additionalInfo":"FOOD STORAGE: The park is home to many animals, including black bears. When not in use, all of your food, garbage, cooking equipment, storage containers (e.g. ice chests), and toiletries (soaps, toothpaste, etc.) must be kept in your vehicle or in the bear-resistant locker provided at your campsite. WATER: No water is available in the campground. Bring water with you. A faucet with drinking water can be found outside the Visitor Center at Park Headquarters, 12 miles away, and a water-bottle filling station inside the visitor center when the building is open. OTHER FACILITIES: The closest facilities are at Mazama Campground,16 miles away. Mazama Village has multiple water sources where you may fill containers. Mazama Village Store sells groceries, camping supplies, and gasoline during designated hours. The store also has hot showers and laundry machines. They take quarters; a change machine is on site.",
+"trailerMaxLength":"0",
+"adaInfo":"There are no campsites designated accessible or specifically manageable by wheelchair or other mobility assists. The camp sites are generally level. Some uneveness is due to natural elements such as rocks, tree roots and other plants. If no site seems safe enough to navigate, check with Mazama Campground for an alternative or accessible campsite. Three of the portable toilets at Lost Creek are accessible. Lost Creek Campground may be considered primitive as there is no water, or any other utility available. Be aware that there is no potable water in Lost Creek Campground. All water must be brought in by the campers.",
+"trailerAllowed":"0",
+"accessRoads":[
+  "Unpaved Roads - All vehicles OK in good weather"
+  ],
+"classifications":[
+  "Limited Development Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+,
+{
+
+"id":"ADCAAE21-0B87-4379-A710-73E70566AA92"
+
+,"url":"https://www.nps.gov/crla/planyourvisit/mazama_campground.htm"
+
+,"name":"Mazama Campground"      
+
+,"parkCode":"crla"
+
+,"description":"Mazama Campground is open only in summer. It typically opens in June and closes in late September. The exact opening and closing dates are determined each year by the snow level in the camp sites, safety issues, and other factors. The campground is nestled in an old-growth forest at 6,000 ft. (1,829 m) in elevation. There are 214 sites each with a picnic table, fire ring, and bear-resistant food locker. The concessioner, ExplorCraterLake, manages the campground. For more details go to reservations."
+
+,"latitude":
+
+"42.86862146054785" 
+
+,"longitude":
+
+"-122.1677826463598" 
+
+,"latLong":"{lat:42.86862146054785, lng:-122.1677826463598}"
+
+,"audioDescription":"Turn right after Annie Creek Entrance Station, onto the main road to Mazama Campground. Stay straight driving past the right turn for the Mazama Village Store. 214 sites are organized on the left-hand side of the road into seven loops lettered A to G, each with a sign identifying the loop location. Travel throughout each loop is one-way in a clockwise direction. At the front of each site is a wooden post with the site number. The sites are dispersed through a forest of lodgepole pines, mountain hemlocks, Shasta red firs, and subalpine firs. Douglas squirrels, gray jays, and Steller’s jays are commonly seen and heard. Each site contains a brown wooden picnic table, a bear-resistant food locker, and a fire ring with a grill. A paved or gravel parking area is provided for cars or an RV. Trash and recycling receptacles are dispersed throughout each loop. The first left turn from the main campground road goes to A-loop with 15 sites including one accessible site, A10. A restroom with running water and flush toilets is near A13, with women on one end of the building and men on the other. A fresh-water spigot is across from the restroom. The second left turn from the main campground road goes to B-loop which has 16 sites including two accessible sites, B1 and B6. There are two restrooms (as previously described) behind sites B5 and B10, and two fresh-water spigots near the restrooms. A right turn at the intersection of loop B goes to the Mazama Village Store, gas pumps, and Annie Creek Restaurant and Gift Shop. The next left is C-loop with 26 sites, two restrooms, and fresh-water spigots at C6 and C19. Directly across from the start of C-loop is the dump station access. Turn right off the main campground road, then take an immediate left to access the dump station. Loop through the dump station area to get back to the main campground road. C-loop is followed by D-loop with 35 sites, one restroom near site D6, and multiple fresh-water spigots throughout the loop. A path between sites D20 and D21 leads to the campground amphitheater. E-loop is the largest loop in the campground with 55 sites, which accommodate tent campers only. There are two restrooms near sites E20 and E47, and multiple fresh-water spigots throughout the loop. Between sites E19 and E21 is a short, gravel access road to the campground amphitheater for park rangers and emergency vehicles, and for visitors walking to or dropping-off. F Loop has 29 sites, and two are accessible, F17 and F21. There is a restroom across from sites F1 and F2, and a restroom with an accessible shower between sites F18 and F22. Multiple fresh-water spigots are located throughout the loop. The end of the main campground road circles through G-loop. This loop has 37 sites with a restroom at the beginning of the loop and multiple fresh-water spigots throughout the loop. From July through early September, rangers present evening programs in the amphitheater, located between D & E loops. There is no parking, including accessible parking, at the amphitheater. Visitors must walk to or be dropped off. Drop-off drivers may use the gravel access road between sites E19 and E21 but cannot park there without the ranger’s permission due to limited space. Unlit walking paths from D & E loop which lead to the front of the outdoor amphitheater are soft soil, not a packed surface. In the amphitheater, lights are on the ground next to the 22 rows of wooden bench seats in three sections from left to right, with wide aisles. Benches face a stage and large movie screen protected within a white structure. There is no designated space for wheelchairs. On the left-hand side of the seating area is a large rock campfire pit, used at the ranger’s discretion. Rangers wear microphones and will try to accommodate any accessible requests brought to their attention. Annie Creek flows through a canyon behind the campground loops and can be heard from several campsites. Annie Creek Trail cuts behind loops C through G with access from the amphitheater or site C11. It is a steep, narrow, dirt path that descends into the canyon following alongside the creek before returning up steep switchbacks."
+
+,"isPassportStampLocation":"0"
+,"passportStampLocationDescription":""
+
+,"passportStampImages":[]
+,"geometryPoiId":""
+
+,"reservationInfo":"From the opening date (dependent on snow removal) there MAY be some first-come first-served sites until June 30. In July, August, and September, all sites are available by reservation only, online (reservation button below) or by calling (866) 292-6720. If no tent sites are available, tent campers may reserve an RV site at the posted fee for that site. Parking areas at tent sites cannot accommodate RVs, so RV campers may not rent tent sites. For complete details use the reservation button to go the managing concessioner's website."
+
+,"reservationUrl":"https://explorecraterlake.com/stay-at-crater-lake/mazama-campground/"
+
+,"regulationsurl":"https://www.nps.gov/crla/planyourvisit/mazama_campground.htm"
+
+,"regulationsOverview":"PETS: At the campsite, and when walking the paved areas including the road, pets must be on a 6 foot or shorter leash that is held and controlled by a person. HOURS: Check-in after 4 pm and check-out before 11 am. Generators are allowed between 8 am and 8 pm. Campground quiet hours are 10 pm to 7 am. MAXIMUM OCCUPANCY: The maximum number of people per campsite is 6 and 2 vehicles. Camping is limited to 30 days per calendar year, with no more than 14 consecutive days. FOOD STORAGE: When not in use, all of your food, garbage, cooking equipment, storage containers (e.g. ice chests), and toiletries (soaps, toothpaste, etc.) must be kept in your vehicle or in the bear-resistant locker provided at your campsite. VEHICLES AND BICYCLES: To protect the vegetation, please keep all vehicles including motorcycles, trailers, and autos on paved surfaces. Ride bicycles on the road not between campsites or on trails."
+
+,"amenities":{"trashRecyclingCollection":"Yes - seasonal","toilets":["Flush Toilets - seasonal"],"internetConnectivity":"Yes - seasonal","showers":["Coin-Operated - Seasonal"],"cellPhoneReception":"No","laundry":"Yes - seasonal","amphitheater":"Yes - seasonal","dumpStation":"Yes - seasonal","campStore":"Yes - seasonal","staffOrVolunteerHostOnsite":"Yes - seasonal","potableWater":["Yes - seasonal"],"iceAvailableForSale":"Yes - seasonal","firewoodForSale":"Yes - seasonal","foodStorageLockers":"Yes - seasonal"}
+,"contacts":{"phoneNumbers":[{"phoneNumber":"(866) 292-6720","description":"","extension":"","type":"Voice"}],"emailAddresses":[{"description":"Use this email to connect with ExplorCraterLake regarding daily availability, site descriptions, and any questions or concerns that you have about your reservation. However use the phone number below or go to https://explorecraterlake.com/ to change, confirm or cancel your reservation.","emailAddress":"frontdesk@explorecraterlake.com"}]}
+,"fees":[{"cost":"21.00","description":"Maximum number of people per campsite is 6. Maximum number of vehicles per campsite is 2. If no tent sites are available, tent campers may rent an RV site at the fee posted for that site. Camping is limited to 30 days per year, with no more than 14 consecutive days. Senior Pass and Access Pass holders are entitled to a 50% discount on camping fees. When you make a reservation, you'll be charged the full amount. Upon arrival at the campground with a valid pass and identification you will be refunded 50%.","title":"Tent Site"},{"cost":"31.00","description":"Maximum RV length is 50 feet (15 meters). Maximum trailer length is 35 feet (11 meters). If no tent sites are available, tent campers may rent an RV site at the fee posted for that site. Senior Pass and Access Pass holders are entitled to a 50% discount on camping fees. When you make a reservation, you'll be charged the full amount. Upon arrival at the campground with a valid pass and identification you will be refunded 50%.","title":"RV No-hookups"},{"cost":"36.00","description":"Maximum RV length is 50 feet (15 meters). Maximum trailer length is 35 feet (11 meters). Senior Pass and Access Pass holders are entitled to a 50% discount on camping fees. When you make a reservation, you'll be charged the full amount. Upon arrival at the campground with a valid pass and identification you will be refunded 50%.","title":"RV Electricity Only"},{"cost":"42.00","description":"Maximum RV length is 50 feet (15 meters). Maximum trailer length is 35 feet (11 meters). Senior Pass and Access Pass holders are entitled to a 50% discount on camping fees. When you make a reservation, you'll be charged the full amount. Upon arrival at the campground with a valid pass and identification you will be refunded 50%.","title":"RV Full Hookups"},{"cost":"5.00","description":"This group site is reserved for visitors arriving by bicycle or PCT hikers only. A space in this site may be obtained on the day of arrival and not before.","title":"PCT Hikers and Bicyclist Walk-In Camp"}]
+,"directionsOverview":"The easiest way to locate the campground is via Hwy 62 through either the West or South Entrances which meet and turn towards Crater Lake and the Annie Spring Entrance Station. The entrance to Mazama Campground is a right turn immediately past the Annie Spring Entrance Station. If you enter the park from the North Entrance Station the campground is a left turn 7 miles from Rim Village."
+
+,"directionsUrl":"https://explorecraterlake.com/explore/getting-here/"
+
+,"operatingHours":[{"exceptions":[{"exceptionHours":{"wednesday":"Closed","monday":"Closed","thursday":"Closed","sunday":"Closed","tuesday":"Closed","friday":"Closed","saturday":"Closed"},"startDate":"2024-09-25","name":"Winter Closure of Mazama Campground","endDate":"2025-06-20"}],"description":"Opening and closing dates for Mazama Campground are determined each year by the snow level in the camp sites, safety issues, and other factors. It usually opens in June and closes in late September. Not all campground loops open at once. Check in is after 4 pm. Check out is before 11 am. Generators are allowed between 8 am and 8 pm. Campground quiet hours are 10 pm to 7 am. For more information visit the concessioner's website at https://www.explorecraterlake.com/lodging-camping/mazama-campground/.\n\n.","standardHours":{"wednesday":"All Day","monday":"All Day","thursday":"All Day","sunday":"All Day","tuesday":"All Day","friday":"All Day","saturday":"All Day"},"name":"Mazama Campground"}]
+,"addresses":[{"postalCode":"97604","city":"Crater Lake","stateCode":"OR","countryCode":"US","provinceTerritoryCode":"","line1":"Mazama Village","type":"Physical","line3":"","line2":""},{"postalCode":"97604","city":"not applicable","stateCode":"OR","countryCode":"US","provinceTerritoryCode":"","line1":"no mailing address available","type":"Mailing","line3":"","line2":""}]
+,"images":[{"credit":"NPS Photo","crops":[],"title":"Mazama Campsite","altText":"blue and white tent next to a picnic table at a campsite","caption":"A tent campsite at Mazama Village Campground","url":"https://www.nps.gov/common/uploads/structured_data/3C7B2FE3-1DD8-B71B-0B7248B7DF7DE888.jpg"},{"credit":"NPS photo","crops":[],"title":"Amphitheater","altText":"long benches with a center walk face a raised amphitheater structure with screen","caption":"The amphitheater hosts nightly ranger programs in July, August, and early September.","url":"https://www.nps.gov/common/uploads/structured_data/CDCD203E-A70F-6B1A-AA52EDCF30CB765C.jpg"},{"credit":"NPS photo /2021 Mike Connolly","crops":[],"title":"RV camping","altText":"A white Solera RV with one slide out, two bikes on a rack, many stickers from national parks","caption":"Plenty of room for slide-outs","url":"https://www.nps.gov/common/uploads/structured_data/D05243F9-EEBD-DD5A-3F67A4564CD3A0FB.jpg"},{"credit":"NPS photo","crops":[],"title":"Mazama Campsite","altText":"Campsite with picnic table, fire ring and wood, two small tents, and a hammock hung between trees","caption":"Prepared to camp and enjoy a campfire.","url":"https://www.nps.gov/common/uploads/structured_data/CD9AEA8F-925E-6BC7-01812F8A63C1851F.jpg"},{"credit":"NPS photo /2021 Mike Connolly","crops":[],"title":"Mazama Campground site B10","altText":"a small half moon shaped light green trailer parked in campsite # B10","caption":"A few electric and full hook-up sites are available in Mazama Campground.","url":"https://www.nps.gov/common/uploads/structured_data/CFF5B658-E6BC-B929-612133A5B6D1378B.jpg"}]
+,"weatherOverview":"From October through June, most of the park may be snow covered. Annual snowfall averages 41 ft (12.5 m). In early spring, it is typical to have 10 to 15 feet (4 meters) of snow on the ground. July, August, and September are drier and warmer. A typical daytime high temperature during these three months is around 67°F (19°C), but can range from 40°F to 80°F or more (4°C to 27°C). Temperatures cool off rapidly in the evening, with a typical nighttime low around 40°F (4°C)."
+
+,"numberOfSitesReservable":"214"
+
+,"numberOfSitesFirstComeFirstServe":"0"
+
+,"campsites":{
+"totalSites":"214",
+"group":"0",
+"horse":"0",
+"tentOnly":"121",
+"electricalHookups":"18",
+"rvOnly":"75",
+"walkBoatTo":"0",
+"other":"0"
+}
+
+,"accessibility":{
+"wheelchairAccess":"5 RV sites are designated accessible: 2 with electrical hookups, 3 have no hookups. These sites are not consistently similar in size or accessible amenities. At reservation time, ascertain that the site accommodates your needs. If a site is not available or hookups are required, contact one of the private campgrounds outside the park for those amenities. A list can be downloaded at https://www.nps.gov/crla/planyourvisit/publications.htm",
+"internetInfo":"",
+"cellPhoneInfo":"A 24-hour emergency landline is located outside the \"snow-tunnel\" entrance to the Administration Building in park headquarters, adjacent to Steel Visitor Center. There are no cell towers in the park. Cell service is random in areas around Rim Village and the overlooks along Rim Drive. Crater Lake Lodge offers wifi only for their guests. Wifi may be available to patrons of concession-run facilities in Rim Village (year-round) and Mazama Village (summer only).",
+"fireStovePolicy":"Each campsite has a fire ring with a grilling grate. Wood fires are allowed only in these designated rings. Never leave fires or hot coals unattended, and extinguish them completely before leaving. During high fire-danger periods, wood fires are not permitted. Notifications will be posted in the campground if this is the case. Firewood can be purchased at the Mazama Village Store. You may also bring firewood into the park with you, but it must be from the Pacific Northwest (Oregon, Washington, and Idaho) or labeled as \"Approved Pest Free.\" Dead wood may also be gathered as fuel, but only in areas of the park that are below 6,900 feet (2,100 meters) in elevation. Cutting or trimming of standing trees, dead or alive, is prohibited.",
+"rvAllowed":"1",
+"rvInfo":"5 RV sites are designated accessible: 2 with electrical hookups, 3 have no hookups. These sites are not consistently similar in size or accessible amenities. Some sites have accessible picnic tables, others do not. Please inquire about shower and restroom accessibility.",
+"rvMaxLength":"50",
+"additionalInfo":"DUMP STATION The campground has a free dump station. You do not need to be staying at the campground to use it. WATER Water spigots are located throughout the campground. The water is safe to drink. Please do not bathe or wash clothes at water spigots or in restroom sinks. Strained dishwater should be emptied in the grates found in front of each rest TRASH AND RECYCLING Combination trash/recycling bins are located throughout the campground & park. Recycling is currently limited to uncrushed aluminum cans and plastic water bottles. Please consider taking glass and paper home for recycling. CAMPER STORE, LAUNDRY, SHOWERS The Mazama Village Store sells groceries, camping supplies, firewood, and gasoline. Showers and laundry machines are available. GAS AND ELECTRIC VEHICLE CHARGING STATION Self-serve, unleaded gasoline is available at the Mazama Village Store during business hours. A 24-hour charging station is located near Annie Creek Gift Shop. It has one (J1772) connector and one Tesla connector.",
+"trailerMaxLength":"35",
+"adaInfo":"Mazama Campground is at 6,000 feet in elevation with no additional gain of elevation throughout the campground. It is in a forest so some sites have tree stumps, downed logs, rocks, and other natural obtrusions. All sites have paved parking for two cars or an RV. The road and access to water, restrooms, and trash receptacles are paved. 5 RV sites are designated accessible: 2 with electrical hookups, 3 have no hookups. These sites are not consistently similar in size or accessible amenities. At reservation time, ascertain that the site accommodates your needs. If a site is not available or hookups are required, contact one of the private campgrounds outside the park for those amenities. A list can be downloaded at https://www.nps.gov/crla/planyourvisit/publications.htm. The amphitheater, located between D & E loops, has no accessible parking, and the access paths are soft soil without lighting. Speak with the ranger presenting the program about safe access and other needs.",
+"trailerAllowed":"1",
+"accessRoads":[
+  "Paved Roads - All vehicles OK"
+  ],
+"classifications":[
+  "Developed Campground"
+  ]
+}
+
+,"multimedia":[]
+,"relevanceScore":1.0
+,"lastIndexedDate":""
+
+
+}
+
+]
+}
