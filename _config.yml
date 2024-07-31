@@ -103,7 +103,7 @@ author:
       url: "https://twitter.com/opencoarrays"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/scott-weeden"
+      url: "https://github.com/websharpstudios"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/scotdwg81"
@@ -251,7 +251,7 @@ compress_html:
 
 # Collections
 collections:
-  recipes:
+  products:
     output: true
     permalink: /:collection/:path/
   pets:
@@ -283,15 +283,15 @@ defaults:
       author_profile: false
   # _recipes
   - scope:
-      path: ""
-      type: recipes
+      path: "_products"
+      type: products
     values:
       layout: single
       author_profile: false
       share: true
   # _pets
   - scope:
-      path: ""
+      path: "_pets"
       type: pets
     values:
       layout: single
@@ -299,7 +299,7 @@ defaults:
       share: true
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
