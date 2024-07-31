@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# gem "jekyll", "~> 3.9"
+gem "jekyll", "~> 4.3"
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"

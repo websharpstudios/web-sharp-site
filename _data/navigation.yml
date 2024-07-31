@@ -2,18 +2,18 @@
 main:
   - title: "Home"
     url: /
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Posts"
+ #    url: /year-archive/
+ #  - title: "Collections"
+ #    url: /collection-archive/
+#   - title: "Sitemap"
+#     url: /sitemap/
   - title: "Services"
     url: /services/
   - title: "Industries"
     url: /industries/
-  - title: "Blog"
-    url: /blog/
+#   - title: "Blog"
+#     url: /blog/
   - title: "Contact"
     url: /contact/
 
