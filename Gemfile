@@ -2,7 +2,8 @@
 
 source "https://rubygems.org"
 
-gemspec
+# Use the latest version of Bundler
+gem "bundler", "~> 2.2"
 
 # Whitelisted plugins not included in runtime dependencies.
 gem "jekyll-octicons"
