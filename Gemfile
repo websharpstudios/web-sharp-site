@@ -30,7 +30,6 @@ gem "terminal-table", "3.0.2"
 gem "webrick", "1.8.1"
 gem "jekyll", "4.3.3"
 gem "octicons", "19.8.0"
-gem "jekyll-octicons", "19.8.0"
 gem "json", "2.7.2"
 gem "language_server-protocol", "3.17.0.3"
 gem "parallel", "1.25.1"
@@ -44,8 +43,6 @@ gem "rubocop", "1.65.0"
 gem "rubocop-performance", "1.21.1"
 gem "webmock", "3.23.1"
 
-# Whitelisted plugins not included in runtime dependencies.
-gem "jekyll-octicons"
 
 group :test do
   gem "rubocop", "~> 1.37"
