@@ -1,0 +1,110 @@
+behavioral-finance:
+  - title: "Summary"
+    url: /behavioral-finance/summary/
+  - title: "Definition"
+    url: /behavioral-finance/definition/
+  - title: "History"
+    url: /behavioral-finance/history/
+  - title: "Key Concepts"
+    url: /behavioral-finance/key-concepts/
+    children:
+      - title: "Herding Behavior"
+        url: /behavioral-finance/key-concepts/herding-behavior/
+      - title: "Loss Aversion"
+        url: /behavioral-finance/key-concepts/loss-aversion/
+      - title: "Anchoring and Adjustment"
+        url: /behavioral-finance/key-concepts/anchoring-and-adjustment/
+      - title: "Heuristics in General"
+        url: /behavioral-finance/key-concepts/heuristics-in-general/
+  - title: "Common Investor Behaviors"
+    url: /behavioral-finance/common-investor-behaviors/
+    children:
+      - title: "Disposition Effect"
+        url: /behavioral-finance/common-investor-behaviors/disposition-effect/
+      - title: "Herding Behavior"
+        url: /behavioral-finance/common-investor-behaviors/herding-behavior/
+      - title: "Loss Aversion"
+        url: /behavioral-finance/common-investor-behaviors/loss-aversion/
+      - title: "Confirmation Bias"
+        url: /behavioral-finance/common-investor-behaviors/confirmation-bias/
+      - title: "Endowment Effect"
+        url: /behavioral-finance/common-investor-behaviors/endowment-effect/
+      - title: "Representative Bias"
+        url: /behavioral-finance/common-investor-behaviors/representative-bias/
+      - title: "Emotional Biases"
+        url: /behavioral-finance/common-investor-behaviors/emotional-biases/
+      - title: "Availability Heuristic"
+        url: /behavioral-finance/common-investor-behaviors/availability-heuristic/
+  - title: "Notable Figures"
+    url: /behavioral-finance/notable-figures/
+    children:
+      - title: "Daniel Kahneman"
+        url: /behavioral-finance/notable-figures/daniel-kahneman/
+  - title: "Applications"
+    url: /behavioral-finance/applications/
+    children:
+      - title: "Investment Strategies"
+        url: /behavioral-finance/applications/investment-strategies/
+      - title: "Risk Management"
+        url: /behavioral-finance/applications/risk-management/
+      - title: "Enhancing Client Relationships"
+        url: /behavioral-finance/applications/enhancing-client-relationships/
+      - title: "Addressing Behavioral Biases"
+        url: /behavioral-finance/applications/addressing-behavioral-biases/
+      - title: "Practical Heuristics"
+        url: /behavioral-finance/applications/practical-heuristics/
+  - title: "Case Studies"
+    url: /behavioral-finance/case-studies/
+    children:
+      - title: "The Momentum Effect"
+        url: /behavioral-finance/case-studies/the-momentum-effect/
+      - title: "The Value Effect"
+        url: /behavioral-finance/case-studies/the-value-effect/
+      - title: "The January Effect"
+        url: /behavioral-finance/case-studies/the-january-effect/
+      - title: "Post-Earnings Announcement Drift"
+        url: /behavioral-finance/case-studies/post-earnings-announcement-drift/
+      - title: "The Size Effect"
+        url: /behavioral-finance/case-studies/the-size-effect/
+  - title: "Criticisms and Controversies"
+    url: /behavioral-finance/criticisms-and-controversies/
+    children:
+      - title: "Replication Issues"
+        url: /behavioral-finance/criticisms-and-controversies/replication-issues/
+      - title: "Normative Standards"
+        url: /behavioral-finance/criticisms-and-controversies/normative-standards/
+      - title: "Bounded Rationality"
+        url: /behavioral-finance/criticisms-and-controversies/bounded-rationality/
+      - title: "Expected Utility Theory"
+        url: /behavioral-finance/criticisms-and-controversies/expected-utility-theory/
+      - title: "Critiques of Prospect Theory"
+        url: /behavioral-finance/criticisms-and-controversies/critiques-of-prospect-theory/
+      - title: "Availability Heuristic"
+        url: /behavioral-finance/criticisms-and-controversies/availability-heuristic/
+  - title: "Behavioral Finance vs. Traditional Finance"
+    url: /behavioral-finance/behavioral-finance-vs-traditional-finance/
+    children:
+      - title: "Traditional Finance"
+        url: /behavioral-finance/behavioral-finance-vs-traditional-finance/traditional-finance/
+        children:
+          - title: "Assumption of Rationality"
+            url: /behavioral-finance/behavioral-finance-vs-traditional-finance/traditional-finance/assumption-of-rationality/
+          - title: "Efficient Market Hypothesis (EMH)"
+            url: /behavioral-finance/behavioral-finance-vs-traditional-finance/traditional-finance/efficient-market-hypothesis/
+          - title: "Risk and Return Trade-off"
+            url: /behavioral-finance/behavioral-finance-vs-traditional-finance/traditional-finance/risk-and-return-trade-off/
+      - title: "Behavioral Finance"
+        url: /behavioral-finance/behavioral-finance-vs-traditional-finance/behavioral-finance/
+        children:
+          - title: "Acknowledgment of Psychological Influences"
+            url: /behavioral-finance/behavioral-finance-vs-traditional-finance/behavioral-finance/acknowledgment-of-psychological-influences/
+          - title: "Cognitive Biases in Finance"
+            url: /behavioral-finance/behavioral-finance-vs-traditional-finance/behavioral-finance/cognitive-biases-in-finance/
+          - title: "Emotional Investing Psychology"
+            url: /behavioral-finance/behavioral-finance-vs-traditional-finance/behavioral-finance/emotional-investing-psychology/
+      - title: "Integration and Market Efficiency"
+        url: /behavioral-finance/behavioral-finance-vs-traditional-finance/integration-and-market-efficiency/
+  - title: "Current Trends and Research"
+    url: /behavioral-finance/current-trends-and-research/
+  - title: "Future Directions"
+    url: /behavioral-finance/future-directions/

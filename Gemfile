@@ -2,10 +2,6 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
-
-
-
 gem 'jekyll', '3.9.5'
 gem 'github-pages-health-check', '1.18.2'
 gem 'github-pages', '231'
@@ -52,3 +48,4 @@ gem 'nokogiri', '1.16.5'
 gem 'rouge', '3.30.0'
 gem 'safe_yaml', '1.0.5'
 gem 'sass', '3.7.4'
+

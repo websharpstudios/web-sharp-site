@@ -1,0 +1,31 @@
+# Authors
+
+Scott Weeden:
+  name        : "Scott Weeden"
+  bio         : "Living in Texas, enjoying life."
+  avatar      : "/assets/images/scott-weeden.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:scottweeden@example.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://scottweeden.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/opencoarrays"
+
+Shawn Marvin:
+  name        : "Shawn Marvin"
+  bio         : "A tech enthusiast from California."
+  avatar      : "/assets/images/shawn-marvin.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:brandnew2youfoo@gmail.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/marvelousmarv66"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/marvelousmarv66"
