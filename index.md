@@ -11,47 +11,48 @@ header:
     - label: "Learn More"
       url: "/terms/"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Welcome to Web Sharp Studios, where we create cutting-edge web solutions tailored to your needs."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'At Web Sharp Studios, we specialize in delivering high-quality web development services that drive success for your business. Our team is dedicated to providing innovative solutions that meet your unique requirements.'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "Innovative Web Design"
+    title: "Innovative Web Design"
+    excerpt: "Our designs are not only visually appealing but also user-friendly and optimized for performance."
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    alt: "Custom Development"
+    title: "Custom Development"
+    excerpt: "We offer custom development services to build web applications that align perfectly with your business goals."
+    url: "#custom-development"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    alt: "SEO Optimization"
+    title: "SEO Optimization"
+    excerpt: "Our SEO services ensure that your website ranks high on search engines, driving more traffic to your site."
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    alt: "E-commerce Solutions"
+    title: "E-commerce Solutions"
+    excerpt: 'We provide comprehensive e-commerce solutions that help you sell your products online with ease.'
+    url: "#ecommerce-solutions"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    alt: "Mobile Responsive"
+    title: "Mobile Responsive"
+    excerpt: 'Our web designs are mobile responsive, ensuring a seamless experience across all devices.'
+    url: "#mobile-responsive"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    alt: "Support & Maintenance"
+    title: "Support & Maintenance"
+    excerpt: 'We offer ongoing support and maintenance to keep your website running smoothly.'
+    url: "#support-maintenance"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
